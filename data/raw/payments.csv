@@ -1,0 +1,5001 @@
+order_id,payment_method,installments
+O000001,Tarjeta de crédito,10
+O000002,PayPal,1
+O000003,Tarjeta de crédito,2
+O000004,Transferencia,1
+O000005,Transferencia,1
+O000006,Tarjeta de débito,1
+O000007,PayPal,1
+O000008,Tarjeta de débito,1
+O000009,Tarjeta de crédito,10
+O000010,Tarjeta de crédito,2
+O000011,Tarjeta de crédito,1
+O000012,PayPal,1
+O000013,Transferencia,1
+O000014,Tarjeta de débito,1
+O000015,Transferencia,1
+O000016,Tarjeta de crédito,11
+O000017,Transferencia,1
+O000018,Tarjeta de débito,1
+O000019,Transferencia,1
+O000020,Tarjeta de crédito,1
+O000021,Tarjeta de débito,1
+O000022,Transferencia,1
+O000023,Tarjeta de débito,1
+O000024,PayPal,1
+O000025,Transferencia,1
+O000026,Tarjeta de débito,1
+O000027,Tarjeta de crédito,12
+O000028,Transferencia,1
+O000029,Tarjeta de crédito,3
+O000030,Tarjeta de crédito,11
+O000031,Tarjeta de débito,1
+O000032,Tarjeta de crédito,7
+O000033,PayPal,1
+O000034,Tarjeta de débito,1
+O000035,Tarjeta de crédito,8
+O000036,Tarjeta de débito,1
+O000037,Tarjeta de débito,1
+O000038,PayPal,1
+O000039,PayPal,1
+O000040,PayPal,1
+O000041,Tarjeta de débito,1
+O000042,PayPal,1
+O000043,PayPal,1
+O000044,Transferencia,1
+O000045,Tarjeta de débito,1
+O000046,Transferencia,1
+O000047,Tarjeta de crédito,12
+O000048,PayPal,1
+O000049,Tarjeta de crédito,5
+O000050,Tarjeta de débito,1
+O000051,Transferencia,1
+O000052,Tarjeta de débito,1
+O000053,Transferencia,1
+O000054,Tarjeta de crédito,7
+O000055,Tarjeta de débito,1
+O000056,PayPal,1
+O000057,Tarjeta de débito,1
+O000058,PayPal,1
+O000059,Tarjeta de crédito,5
+O000060,Tarjeta de crédito,2
+O000061,Tarjeta de crédito,7
+O000062,Transferencia,1
+O000063,Tarjeta de débito,1
+O000064,PayPal,1
+O000065,PayPal,1
+O000066,Transferencia,1
+O000067,Transferencia,1
+O000068,PayPal,1
+O000069,Tarjeta de débito,1
+O000070,Transferencia,1
+O000071,Transferencia,1
+O000072,PayPal,1
+O000073,PayPal,1
+O000074,Tarjeta de crédito,1
+O000075,Tarjeta de crédito,8
+O000076,Transferencia,1
+O000077,Tarjeta de crédito,2
+O000078,Transferencia,1
+O000079,Tarjeta de débito,1
+O000080,Tarjeta de débito,1
+O000081,PayPal,1
+O000082,Transferencia,1
+O000083,Transferencia,1
+O000084,Transferencia,1
+O000085,Tarjeta de crédito,12
+O000086,PayPal,1
+O000087,Tarjeta de débito,1
+O000088,Tarjeta de débito,1
+O000089,Transferencia,1
+O000090,Tarjeta de crédito,4
+O000091,Transferencia,1
+O000092,Transferencia,1
+O000093,PayPal,1
+O000094,Transferencia,1
+O000095,Tarjeta de crédito,7
+O000096,Transferencia,1
+O000097,Tarjeta de crédito,5
+O000098,PayPal,1
+O000099,Transferencia,1
+O000100,Tarjeta de crédito,6
+O000101,Tarjeta de crédito,1
+O000102,Tarjeta de débito,1
+O000103,Tarjeta de crédito,10
+O000104,PayPal,1
+O000105,Tarjeta de crédito,3
+O000106,PayPal,1
+O000107,Tarjeta de débito,1
+O000108,PayPal,1
+O000109,Tarjeta de crédito,6
+O000110,PayPal,1
+O000111,Transferencia,1
+O000112,PayPal,1
+O000113,PayPal,1
+O000114,PayPal,1
+O000115,Transferencia,1
+O000116,Transferencia,1
+O000117,Tarjeta de débito,1
+O000118,PayPal,1
+O000119,Tarjeta de débito,1
+O000120,Transferencia,1
+O000121,Transferencia,1
+O000122,Transferencia,1
+O000123,PayPal,1
+O000124,PayPal,1
+O000125,PayPal,1
+O000126,Tarjeta de débito,1
+O000127,Tarjeta de débito,1
+O000128,Transferencia,1
+O000129,PayPal,1
+O000130,PayPal,1
+O000131,PayPal,1
+O000132,Tarjeta de débito,1
+O000133,PayPal,1
+O000134,Tarjeta de crédito,1
+O000135,PayPal,1
+O000136,Transferencia,1
+O000137,Transferencia,1
+O000138,Tarjeta de crédito,3
+O000139,Tarjeta de crédito,4
+O000140,Transferencia,1
+O000141,Transferencia,1
+O000142,Tarjeta de crédito,10
+O000143,Tarjeta de débito,1
+O000144,Tarjeta de débito,1
+O000145,Tarjeta de débito,1
+O000146,Transferencia,1
+O000147,PayPal,1
+O000148,Tarjeta de débito,1
+O000149,Tarjeta de débito,1
+O000150,Tarjeta de débito,1
+O000151,PayPal,1
+O000152,Transferencia,1
+O000153,Transferencia,1
+O000154,Tarjeta de crédito,7
+O000155,Tarjeta de crédito,4
+O000156,PayPal,1
+O000157,Transferencia,1
+O000158,Transferencia,1
+O000159,PayPal,1
+O000160,Tarjeta de débito,1
+O000161,PayPal,1
+O000162,PayPal,1
+O000163,Tarjeta de crédito,11
+O000164,PayPal,1
+O000165,PayPal,1
+O000166,Transferencia,1
+O000167,Tarjeta de débito,1
+O000168,Tarjeta de crédito,9
+O000169,Tarjeta de crédito,11
+O000170,PayPal,1
+O000171,Tarjeta de débito,1
+O000172,Tarjeta de débito,1
+O000173,Transferencia,1
+O000174,PayPal,1
+O000175,Transferencia,1
+O000176,Transferencia,1
+O000177,Transferencia,1
+O000178,Transferencia,1
+O000179,PayPal,1
+O000180,Tarjeta de débito,1
+O000181,PayPal,1
+O000182,Tarjeta de crédito,9
+O000183,Tarjeta de débito,1
+O000184,PayPal,1
+O000185,Tarjeta de crédito,6
+O000186,Tarjeta de crédito,10
+O000187,PayPal,1
+O000188,Transferencia,1
+O000189,Tarjeta de crédito,8
+O000190,Tarjeta de crédito,1
+O000191,PayPal,1
+O000192,Tarjeta de débito,1
+O000193,Transferencia,1
+O000194,Tarjeta de débito,1
+O000195,PayPal,1
+O000196,PayPal,1
+O000197,PayPal,1
+O000198,PayPal,1
+O000199,Tarjeta de crédito,4
+O000200,PayPal,1
+O000201,Transferencia,1
+O000202,Tarjeta de crédito,10
+O000203,Tarjeta de débito,1
+O000204,Tarjeta de débito,1
+O000205,Tarjeta de crédito,5
+O000206,Tarjeta de débito,1
+O000207,PayPal,1
+O000208,PayPal,1
+O000209,PayPal,1
+O000210,Tarjeta de débito,1
+O000211,Transferencia,1
+O000212,PayPal,1
+O000213,PayPal,1
+O000214,PayPal,1
+O000215,Tarjeta de débito,1
+O000216,Tarjeta de débito,1
+O000217,Transferencia,1
+O000218,Tarjeta de débito,1
+O000219,PayPal,1
+O000220,Tarjeta de débito,1
+O000221,Transferencia,1
+O000222,Tarjeta de crédito,8
+O000223,Tarjeta de débito,1
+O000224,PayPal,1
+O000225,Tarjeta de débito,1
+O000226,Tarjeta de crédito,11
+O000227,Tarjeta de crédito,1
+O000228,Tarjeta de débito,1
+O000229,Tarjeta de débito,1
+O000230,Tarjeta de débito,1
+O000231,Tarjeta de débito,1
+O000232,Tarjeta de débito,1
+O000233,Tarjeta de crédito,3
+O000234,Tarjeta de débito,1
+O000235,Tarjeta de crédito,3
+O000236,Transferencia,1
+O000237,Transferencia,1
+O000238,PayPal,1
+O000239,Transferencia,1
+O000240,Transferencia,1
+O000241,PayPal,1
+O000242,PayPal,1
+O000243,PayPal,1
+O000244,Tarjeta de crédito,11
+O000245,Tarjeta de débito,1
+O000246,Tarjeta de crédito,6
+O000247,Tarjeta de débito,1
+O000248,Transferencia,1
+O000249,PayPal,1
+O000250,PayPal,1
+O000251,PayPal,1
+O000252,PayPal,1
+O000253,Tarjeta de débito,1
+O000254,Tarjeta de débito,1
+O000255,PayPal,1
+O000256,Tarjeta de débito,1
+O000257,Tarjeta de crédito,10
+O000258,PayPal,1
+O000259,Tarjeta de débito,1
+O000260,Tarjeta de crédito,2
+O000261,Transferencia,1
+O000262,PayPal,1
+O000263,Tarjeta de débito,1
+O000264,Tarjeta de crédito,5
+O000265,Transferencia,1
+O000266,PayPal,1
+O000267,Transferencia,1
+O000268,Tarjeta de crédito,1
+O000269,Tarjeta de débito,1
+O000270,Tarjeta de crédito,8
+O000271,Tarjeta de débito,1
+O000272,Tarjeta de crédito,7
+O000273,Tarjeta de crédito,6
+O000274,Transferencia,1
+O000275,PayPal,1
+O000276,PayPal,1
+O000277,Tarjeta de crédito,4
+O000278,Transferencia,1
+O000279,PayPal,1
+O000280,Tarjeta de crédito,9
+O000281,Tarjeta de débito,1
+O000282,PayPal,1
+O000283,Tarjeta de débito,1
+O000284,Transferencia,1
+O000285,PayPal,1
+O000286,Transferencia,1
+O000287,Tarjeta de crédito,6
+O000288,Transferencia,1
+O000289,Tarjeta de crédito,11
+O000290,Transferencia,1
+O000291,Transferencia,1
+O000292,Transferencia,1
+O000293,Tarjeta de crédito,6
+O000294,Tarjeta de débito,1
+O000295,Transferencia,1
+O000296,PayPal,1
+O000297,PayPal,1
+O000298,PayPal,1
+O000299,Tarjeta de crédito,9
+O000300,Tarjeta de débito,1
+O000301,Tarjeta de débito,1
+O000302,Transferencia,1
+O000303,Tarjeta de crédito,5
+O000304,Tarjeta de crédito,11
+O000305,PayPal,1
+O000306,Transferencia,1
+O000307,Tarjeta de débito,1
+O000308,Tarjeta de crédito,9
+O000309,PayPal,1
+O000310,Tarjeta de débito,1
+O000311,Tarjeta de débito,1
+O000312,Tarjeta de débito,1
+O000313,Tarjeta de débito,1
+O000314,Tarjeta de débito,1
+O000315,Transferencia,1
+O000316,Transferencia,1
+O000317,Tarjeta de débito,1
+O000318,PayPal,1
+O000319,Tarjeta de crédito,5
+O000320,PayPal,1
+O000321,Tarjeta de débito,1
+O000322,Transferencia,1
+O000323,PayPal,1
+O000324,Tarjeta de crédito,12
+O000325,PayPal,1
+O000326,Transferencia,1
+O000327,Tarjeta de crédito,5
+O000328,Transferencia,1
+O000329,Tarjeta de débito,1
+O000330,Transferencia,1
+O000331,Tarjeta de crédito,11
+O000332,PayPal,1
+O000333,Transferencia,1
+O000334,Tarjeta de crédito,9
+O000335,Tarjeta de crédito,7
+O000336,PayPal,1
+O000337,Tarjeta de crédito,6
+O000338,Tarjeta de crédito,10
+O000339,PayPal,1
+O000340,Transferencia,1
+O000341,Transferencia,1
+O000342,Tarjeta de débito,1
+O000343,Tarjeta de crédito,6
+O000344,Transferencia,1
+O000345,PayPal,1
+O000346,PayPal,1
+O000347,Transferencia,1
+O000348,Tarjeta de débito,1
+O000349,PayPal,1
+O000350,Transferencia,1
+O000351,Tarjeta de débito,1
+O000352,PayPal,1
+O000353,Transferencia,1
+O000354,PayPal,1
+O000355,Transferencia,1
+O000356,Transferencia,1
+O000357,Tarjeta de débito,1
+O000358,Transferencia,1
+O000359,Tarjeta de crédito,4
+O000360,Tarjeta de crédito,10
+O000361,PayPal,1
+O000362,Tarjeta de débito,1
+O000363,PayPal,1
+O000364,Tarjeta de débito,1
+O000365,PayPal,1
+O000366,PayPal,1
+O000367,Transferencia,1
+O000368,Tarjeta de crédito,11
+O000369,Tarjeta de crédito,9
+O000370,Tarjeta de débito,1
+O000371,Tarjeta de débito,1
+O000372,Tarjeta de crédito,6
+O000373,Tarjeta de crédito,2
+O000374,Transferencia,1
+O000375,PayPal,1
+O000376,Transferencia,1
+O000377,Tarjeta de débito,1
+O000378,Tarjeta de crédito,2
+O000379,Tarjeta de débito,1
+O000380,PayPal,1
+O000381,Tarjeta de débito,1
+O000382,Tarjeta de crédito,9
+O000383,Tarjeta de débito,1
+O000384,PayPal,1
+O000385,Tarjeta de crédito,1
+O000386,Transferencia,1
+O000387,PayPal,1
+O000388,Transferencia,1
+O000389,Tarjeta de crédito,3
+O000390,PayPal,1
+O000391,PayPal,1
+O000392,Tarjeta de crédito,6
+O000393,PayPal,1
+O000394,PayPal,1
+O000395,PayPal,1
+O000396,Transferencia,1
+O000397,Transferencia,1
+O000398,Tarjeta de crédito,1
+O000399,Transferencia,1
+O000400,Transferencia,1
+O000401,PayPal,1
+O000402,Tarjeta de débito,1
+O000403,Transferencia,1
+O000404,Tarjeta de crédito,3
+O000405,PayPal,1
+O000406,Tarjeta de débito,1
+O000407,Tarjeta de débito,1
+O000408,Tarjeta de débito,1
+O000409,PayPal,1
+O000410,PayPal,1
+O000411,Transferencia,1
+O000412,PayPal,1
+O000413,PayPal,1
+O000414,Transferencia,1
+O000415,Tarjeta de débito,1
+O000416,Transferencia,1
+O000417,Transferencia,1
+O000418,Tarjeta de crédito,10
+O000419,Tarjeta de crédito,8
+O000420,Tarjeta de débito,1
+O000421,Tarjeta de crédito,12
+O000422,PayPal,1
+O000423,Transferencia,1
+O000424,PayPal,1
+O000425,PayPal,1
+O000426,Tarjeta de débito,1
+O000427,PayPal,1
+O000428,Transferencia,1
+O000429,PayPal,1
+O000430,Transferencia,1
+O000431,Tarjeta de débito,1
+O000432,Tarjeta de débito,1
+O000433,Tarjeta de débito,1
+O000434,Tarjeta de débito,1
+O000435,Transferencia,1
+O000436,Tarjeta de débito,1
+O000437,Tarjeta de débito,1
+O000438,Tarjeta de débito,1
+O000439,Tarjeta de crédito,2
+O000440,Tarjeta de crédito,3
+O000441,Tarjeta de débito,1
+O000442,Tarjeta de crédito,6
+O000443,Transferencia,1
+O000444,PayPal,1
+O000445,Tarjeta de débito,1
+O000446,Tarjeta de crédito,12
+O000447,Tarjeta de débito,1
+O000448,Transferencia,1
+O000449,Tarjeta de crédito,3
+O000450,Tarjeta de débito,1
+O000451,Transferencia,1
+O000452,PayPal,1
+O000453,Tarjeta de crédito,5
+O000454,Tarjeta de crédito,8
+O000455,PayPal,1
+O000456,PayPal,1
+O000457,Tarjeta de débito,1
+O000458,PayPal,1
+O000459,Tarjeta de débito,1
+O000460,Tarjeta de crédito,9
+O000461,Tarjeta de crédito,1
+O000462,Tarjeta de débito,1
+O000463,Transferencia,1
+O000464,Tarjeta de débito,1
+O000465,Transferencia,1
+O000466,Transferencia,1
+O000467,Transferencia,1
+O000468,PayPal,1
+O000469,Tarjeta de débito,1
+O000470,Transferencia,1
+O000471,Tarjeta de crédito,2
+O000472,Tarjeta de débito,1
+O000473,Transferencia,1
+O000474,Tarjeta de débito,1
+O000475,Transferencia,1
+O000476,Tarjeta de crédito,1
+O000477,Transferencia,1
+O000478,Tarjeta de débito,1
+O000479,Tarjeta de crédito,11
+O000480,Tarjeta de crédito,2
+O000481,Tarjeta de crédito,4
+O000482,Transferencia,1
+O000483,Tarjeta de crédito,3
+O000484,PayPal,1
+O000485,Tarjeta de débito,1
+O000486,Tarjeta de débito,1
+O000487,Transferencia,1
+O000488,Tarjeta de débito,1
+O000489,Transferencia,1
+O000490,Tarjeta de débito,1
+O000491,Tarjeta de débito,1
+O000492,Tarjeta de crédito,8
+O000493,Tarjeta de débito,1
+O000494,Transferencia,1
+O000495,Tarjeta de débito,1
+O000496,PayPal,1
+O000497,Tarjeta de crédito,12
+O000498,Tarjeta de débito,1
+O000499,Transferencia,1
+O000500,PayPal,1
+O000501,Tarjeta de crédito,12
+O000502,Transferencia,1
+O000503,Tarjeta de débito,1
+O000504,Transferencia,1
+O000505,Tarjeta de débito,1
+O000506,PayPal,1
+O000507,Transferencia,1
+O000508,Tarjeta de débito,1
+O000509,Tarjeta de crédito,2
+O000510,Transferencia,1
+O000511,Tarjeta de crédito,12
+O000512,Transferencia,1
+O000513,Transferencia,1
+O000514,Transferencia,1
+O000515,PayPal,1
+O000516,Transferencia,1
+O000517,Tarjeta de débito,1
+O000518,PayPal,1
+O000519,PayPal,1
+O000520,Tarjeta de débito,1
+O000521,Tarjeta de crédito,2
+O000522,Tarjeta de crédito,11
+O000523,Tarjeta de débito,1
+O000524,Transferencia,1
+O000525,Tarjeta de crédito,4
+O000526,Transferencia,1
+O000527,PayPal,1
+O000528,PayPal,1
+O000529,Tarjeta de débito,1
+O000530,Tarjeta de débito,1
+O000531,Tarjeta de débito,1
+O000532,PayPal,1
+O000533,Transferencia,1
+O000534,Transferencia,1
+O000535,Transferencia,1
+O000536,Transferencia,1
+O000537,Transferencia,1
+O000538,PayPal,1
+O000539,Tarjeta de crédito,5
+O000540,Tarjeta de débito,1
+O000541,Tarjeta de crédito,5
+O000542,Tarjeta de crédito,3
+O000543,Transferencia,1
+O000544,Tarjeta de crédito,6
+O000545,PayPal,1
+O000546,Tarjeta de crédito,12
+O000547,Tarjeta de débito,1
+O000548,PayPal,1
+O000549,PayPal,1
+O000550,PayPal,1
+O000551,Transferencia,1
+O000552,Tarjeta de débito,1
+O000553,Transferencia,1
+O000554,Tarjeta de débito,1
+O000555,Tarjeta de débito,1
+O000556,PayPal,1
+O000557,PayPal,1
+O000558,Tarjeta de débito,1
+O000559,Transferencia,1
+O000560,Tarjeta de crédito,7
+O000561,PayPal,1
+O000562,Transferencia,1
+O000563,Transferencia,1
+O000564,Tarjeta de crédito,6
+O000565,Tarjeta de débito,1
+O000566,Tarjeta de crédito,10
+O000567,Tarjeta de crédito,5
+O000568,Tarjeta de débito,1
+O000569,Tarjeta de débito,1
+O000570,PayPal,1
+O000571,PayPal,1
+O000572,Transferencia,1
+O000573,Transferencia,1
+O000574,Tarjeta de crédito,1
+O000575,Tarjeta de débito,1
+O000576,Tarjeta de débito,1
+O000577,Tarjeta de débito,1
+O000578,Transferencia,1
+O000579,Transferencia,1
+O000580,Tarjeta de débito,1
+O000581,Tarjeta de crédito,9
+O000582,Tarjeta de débito,1
+O000583,PayPal,1
+O000584,PayPal,1
+O000585,PayPal,1
+O000586,Tarjeta de débito,1
+O000587,Tarjeta de crédito,3
+O000588,Transferencia,1
+O000589,Transferencia,1
+O000590,Tarjeta de débito,1
+O000591,Tarjeta de débito,1
+O000592,Tarjeta de crédito,6
+O000593,Tarjeta de débito,1
+O000594,Transferencia,1
+O000595,Transferencia,1
+O000596,Tarjeta de débito,1
+O000597,PayPal,1
+O000598,Transferencia,1
+O000599,Tarjeta de crédito,5
+O000600,Transferencia,1
+O000601,Tarjeta de débito,1
+O000602,PayPal,1
+O000603,Tarjeta de crédito,4
+O000604,PayPal,1
+O000605,Tarjeta de débito,1
+O000606,PayPal,1
+O000607,PayPal,1
+O000608,Tarjeta de crédito,3
+O000609,Tarjeta de débito,1
+O000610,PayPal,1
+O000611,Transferencia,1
+O000612,PayPal,1
+O000613,Tarjeta de crédito,7
+O000614,Transferencia,1
+O000615,Tarjeta de crédito,12
+O000616,Tarjeta de crédito,9
+O000617,PayPal,1
+O000618,Tarjeta de débito,1
+O000619,Tarjeta de crédito,11
+O000620,Transferencia,1
+O000621,Tarjeta de débito,1
+O000622,Tarjeta de débito,1
+O000623,PayPal,1
+O000624,Tarjeta de débito,1
+O000625,PayPal,1
+O000626,Tarjeta de crédito,12
+O000627,Tarjeta de débito,1
+O000628,Transferencia,1
+O000629,PayPal,1
+O000630,Tarjeta de débito,1
+O000631,Tarjeta de crédito,2
+O000632,Transferencia,1
+O000633,Tarjeta de débito,1
+O000634,Tarjeta de crédito,10
+O000635,Tarjeta de débito,1
+O000636,Transferencia,1
+O000637,Tarjeta de débito,1
+O000638,Transferencia,1
+O000639,Tarjeta de débito,1
+O000640,PayPal,1
+O000641,PayPal,1
+O000642,Tarjeta de débito,1
+O000643,Transferencia,1
+O000644,Tarjeta de crédito,9
+O000645,PayPal,1
+O000646,Transferencia,1
+O000647,Transferencia,1
+O000648,Tarjeta de crédito,1
+O000649,Transferencia,1
+O000650,Transferencia,1
+O000651,Tarjeta de débito,1
+O000652,Tarjeta de débito,1
+O000653,Transferencia,1
+O000654,Transferencia,1
+O000655,Tarjeta de crédito,7
+O000656,Tarjeta de crédito,5
+O000657,Tarjeta de débito,1
+O000658,Transferencia,1
+O000659,PayPal,1
+O000660,PayPal,1
+O000661,PayPal,1
+O000662,Tarjeta de crédito,8
+O000663,Tarjeta de débito,1
+O000664,Tarjeta de crédito,4
+O000665,Tarjeta de crédito,4
+O000666,PayPal,1
+O000667,Transferencia,1
+O000668,Transferencia,1
+O000669,PayPal,1
+O000670,Tarjeta de crédito,3
+O000671,Transferencia,1
+O000672,PayPal,1
+O000673,Transferencia,1
+O000674,Tarjeta de débito,1
+O000675,Tarjeta de débito,1
+O000676,Tarjeta de débito,1
+O000677,Tarjeta de crédito,4
+O000678,PayPal,1
+O000679,Transferencia,1
+O000680,Tarjeta de débito,1
+O000681,PayPal,1
+O000682,Tarjeta de débito,1
+O000683,Tarjeta de crédito,10
+O000684,Tarjeta de débito,1
+O000685,Transferencia,1
+O000686,PayPal,1
+O000687,PayPal,1
+O000688,Tarjeta de crédito,4
+O000689,Tarjeta de débito,1
+O000690,Transferencia,1
+O000691,PayPal,1
+O000692,Transferencia,1
+O000693,PayPal,1
+O000694,PayPal,1
+O000695,Tarjeta de débito,1
+O000696,PayPal,1
+O000697,Transferencia,1
+O000698,Tarjeta de crédito,3
+O000699,Tarjeta de crédito,4
+O000700,PayPal,1
+O000701,PayPal,1
+O000702,Tarjeta de crédito,4
+O000703,Tarjeta de crédito,8
+O000704,Transferencia,1
+O000705,Transferencia,1
+O000706,Tarjeta de débito,1
+O000707,Tarjeta de crédito,10
+O000708,Transferencia,1
+O000709,PayPal,1
+O000710,Tarjeta de débito,1
+O000711,PayPal,1
+O000712,PayPal,1
+O000713,Tarjeta de débito,1
+O000714,Tarjeta de crédito,8
+O000715,Tarjeta de crédito,4
+O000716,Tarjeta de crédito,4
+O000717,PayPal,1
+O000718,PayPal,1
+O000719,Transferencia,1
+O000720,Tarjeta de crédito,1
+O000721,Tarjeta de crédito,9
+O000722,Tarjeta de débito,1
+O000723,Tarjeta de crédito,1
+O000724,Tarjeta de débito,1
+O000725,PayPal,1
+O000726,Transferencia,1
+O000727,PayPal,1
+O000728,Transferencia,1
+O000729,PayPal,1
+O000730,Tarjeta de débito,1
+O000731,Tarjeta de débito,1
+O000732,Transferencia,1
+O000733,PayPal,1
+O000734,Tarjeta de crédito,8
+O000735,Tarjeta de crédito,4
+O000736,Tarjeta de crédito,12
+O000737,Tarjeta de débito,1
+O000738,PayPal,1
+O000739,Tarjeta de crédito,7
+O000740,Transferencia,1
+O000741,Transferencia,1
+O000742,Tarjeta de crédito,1
+O000743,Tarjeta de crédito,2
+O000744,Tarjeta de crédito,9
+O000745,Transferencia,1
+O000746,Tarjeta de débito,1
+O000747,Tarjeta de débito,1
+O000748,PayPal,1
+O000749,Tarjeta de crédito,7
+O000750,Transferencia,1
+O000751,Transferencia,1
+O000752,Tarjeta de débito,1
+O000753,Tarjeta de crédito,8
+O000754,Transferencia,1
+O000755,Transferencia,1
+O000756,PayPal,1
+O000757,PayPal,1
+O000758,Tarjeta de crédito,3
+O000759,PayPal,1
+O000760,Transferencia,1
+O000761,Tarjeta de débito,1
+O000762,Tarjeta de crédito,9
+O000763,Tarjeta de débito,1
+O000764,Tarjeta de débito,1
+O000765,Tarjeta de crédito,11
+O000766,PayPal,1
+O000767,Transferencia,1
+O000768,Transferencia,1
+O000769,Transferencia,1
+O000770,Tarjeta de débito,1
+O000771,Tarjeta de crédito,2
+O000772,PayPal,1
+O000773,Transferencia,1
+O000774,PayPal,1
+O000775,Transferencia,1
+O000776,PayPal,1
+O000777,Transferencia,1
+O000778,PayPal,1
+O000779,Tarjeta de crédito,4
+O000780,Transferencia,1
+O000781,Tarjeta de crédito,4
+O000782,PayPal,1
+O000783,Tarjeta de débito,1
+O000784,Transferencia,1
+O000785,Tarjeta de crédito,3
+O000786,Tarjeta de débito,1
+O000787,Tarjeta de crédito,6
+O000788,Transferencia,1
+O000789,Tarjeta de débito,1
+O000790,Tarjeta de débito,1
+O000791,Tarjeta de débito,1
+O000792,PayPal,1
+O000793,Tarjeta de crédito,3
+O000794,Tarjeta de débito,1
+O000795,Transferencia,1
+O000796,Tarjeta de crédito,8
+O000797,Tarjeta de crédito,4
+O000798,PayPal,1
+O000799,Tarjeta de débito,1
+O000800,Transferencia,1
+O000801,PayPal,1
+O000802,Transferencia,1
+O000803,PayPal,1
+O000804,PayPal,1
+O000805,Tarjeta de débito,1
+O000806,Transferencia,1
+O000807,Tarjeta de crédito,11
+O000808,Transferencia,1
+O000809,Tarjeta de débito,1
+O000810,Transferencia,1
+O000811,Tarjeta de débito,1
+O000812,PayPal,1
+O000813,Tarjeta de crédito,4
+O000814,Transferencia,1
+O000815,PayPal,1
+O000816,Tarjeta de crédito,8
+O000817,Transferencia,1
+O000818,Tarjeta de débito,1
+O000819,Transferencia,1
+O000820,Tarjeta de débito,1
+O000821,PayPal,1
+O000822,Tarjeta de crédito,1
+O000823,Tarjeta de débito,1
+O000824,Transferencia,1
+O000825,Tarjeta de crédito,9
+O000826,Tarjeta de crédito,6
+O000827,Tarjeta de crédito,11
+O000828,PayPal,1
+O000829,PayPal,1
+O000830,PayPal,1
+O000831,PayPal,1
+O000832,PayPal,1
+O000833,Tarjeta de crédito,4
+O000834,Tarjeta de débito,1
+O000835,Tarjeta de débito,1
+O000836,Tarjeta de crédito,7
+O000837,Tarjeta de crédito,11
+O000838,Tarjeta de crédito,1
+O000839,Transferencia,1
+O000840,Tarjeta de débito,1
+O000841,Tarjeta de crédito,5
+O000842,PayPal,1
+O000843,Tarjeta de crédito,5
+O000844,Transferencia,1
+O000845,PayPal,1
+O000846,Transferencia,1
+O000847,Transferencia,1
+O000848,PayPal,1
+O000849,Tarjeta de crédito,2
+O000850,Tarjeta de crédito,5
+O000851,PayPal,1
+O000852,PayPal,1
+O000853,Tarjeta de crédito,2
+O000854,Tarjeta de débito,1
+O000855,Transferencia,1
+O000856,PayPal,1
+O000857,Transferencia,1
+O000858,Transferencia,1
+O000859,Tarjeta de crédito,3
+O000860,Transferencia,1
+O000861,Tarjeta de crédito,11
+O000862,Tarjeta de crédito,7
+O000863,PayPal,1
+O000864,Tarjeta de débito,1
+O000865,Tarjeta de crédito,7
+O000866,Transferencia,1
+O000867,Tarjeta de crédito,1
+O000868,Transferencia,1
+O000869,PayPal,1
+O000870,Tarjeta de crédito,9
+O000871,Transferencia,1
+O000872,Transferencia,1
+O000873,Transferencia,1
+O000874,Tarjeta de crédito,2
+O000875,Tarjeta de crédito,2
+O000876,Transferencia,1
+O000877,Transferencia,1
+O000878,Transferencia,1
+O000879,Tarjeta de crédito,11
+O000880,PayPal,1
+O000881,Tarjeta de crédito,1
+O000882,Transferencia,1
+O000883,Tarjeta de débito,1
+O000884,Tarjeta de débito,1
+O000885,Transferencia,1
+O000886,Tarjeta de crédito,8
+O000887,Transferencia,1
+O000888,Tarjeta de crédito,9
+O000889,Tarjeta de débito,1
+O000890,PayPal,1
+O000891,PayPal,1
+O000892,Tarjeta de débito,1
+O000893,PayPal,1
+O000894,Tarjeta de débito,1
+O000895,PayPal,1
+O000896,Tarjeta de débito,1
+O000897,Transferencia,1
+O000898,Transferencia,1
+O000899,Tarjeta de crédito,1
+O000900,Tarjeta de débito,1
+O000901,PayPal,1
+O000902,PayPal,1
+O000903,PayPal,1
+O000904,Tarjeta de débito,1
+O000905,Tarjeta de crédito,7
+O000906,Tarjeta de crédito,1
+O000907,Tarjeta de débito,1
+O000908,Tarjeta de débito,1
+O000909,Tarjeta de débito,1
+O000910,Tarjeta de débito,1
+O000911,Tarjeta de crédito,7
+O000912,Tarjeta de débito,1
+O000913,Tarjeta de débito,1
+O000914,PayPal,1
+O000915,PayPal,1
+O000916,PayPal,1
+O000917,Tarjeta de crédito,9
+O000918,Transferencia,1
+O000919,Tarjeta de débito,1
+O000920,PayPal,1
+O000921,Transferencia,1
+O000922,PayPal,1
+O000923,Tarjeta de débito,1
+O000924,PayPal,1
+O000925,PayPal,1
+O000926,PayPal,1
+O000927,Tarjeta de débito,1
+O000928,Tarjeta de débito,1
+O000929,Tarjeta de crédito,4
+O000930,Tarjeta de crédito,4
+O000931,Tarjeta de débito,1
+O000932,PayPal,1
+O000933,Tarjeta de crédito,1
+O000934,Tarjeta de crédito,10
+O000935,Transferencia,1
+O000936,Tarjeta de crédito,7
+O000937,Tarjeta de crédito,11
+O000938,Tarjeta de crédito,12
+O000939,Tarjeta de crédito,5
+O000940,Transferencia,1
+O000941,Tarjeta de débito,1
+O000942,Transferencia,1
+O000943,PayPal,1
+O000944,Tarjeta de débito,1
+O000945,Tarjeta de crédito,10
+O000946,Tarjeta de débito,1
+O000947,Tarjeta de débito,1
+O000948,PayPal,1
+O000949,Tarjeta de crédito,9
+O000950,Tarjeta de crédito,5
+O000951,Transferencia,1
+O000952,Tarjeta de débito,1
+O000953,Tarjeta de crédito,4
+O000954,PayPal,1
+O000955,PayPal,1
+O000956,PayPal,1
+O000957,Transferencia,1
+O000958,PayPal,1
+O000959,Transferencia,1
+O000960,Tarjeta de crédito,5
+O000961,PayPal,1
+O000962,Tarjeta de crédito,1
+O000963,Transferencia,1
+O000964,PayPal,1
+O000965,Tarjeta de débito,1
+O000966,Tarjeta de crédito,7
+O000967,Tarjeta de débito,1
+O000968,Transferencia,1
+O000969,Tarjeta de débito,1
+O000970,Tarjeta de débito,1
+O000971,PayPal,1
+O000972,Tarjeta de débito,1
+O000973,Tarjeta de crédito,1
+O000974,PayPal,1
+O000975,Tarjeta de débito,1
+O000976,Tarjeta de crédito,9
+O000977,Transferencia,1
+O000978,Tarjeta de crédito,9
+O000979,Tarjeta de débito,1
+O000980,PayPal,1
+O000981,Tarjeta de débito,1
+O000982,Tarjeta de débito,1
+O000983,Transferencia,1
+O000984,Transferencia,1
+O000985,Tarjeta de crédito,3
+O000986,Tarjeta de crédito,10
+O000987,PayPal,1
+O000988,Tarjeta de crédito,12
+O000989,Transferencia,1
+O000990,Tarjeta de débito,1
+O000991,PayPal,1
+O000992,PayPal,1
+O000993,Transferencia,1
+O000994,Transferencia,1
+O000995,Tarjeta de débito,1
+O000996,Tarjeta de crédito,2
+O000997,Tarjeta de crédito,11
+O000998,Transferencia,1
+O000999,PayPal,1
+O001000,Tarjeta de débito,1
+O001001,PayPal,1
+O001002,Tarjeta de crédito,10
+O001003,Tarjeta de crédito,7
+O001004,Transferencia,1
+O001005,PayPal,1
+O001006,PayPal,1
+O001007,Transferencia,1
+O001008,Transferencia,1
+O001009,Transferencia,1
+O001010,Tarjeta de débito,1
+O001011,Transferencia,1
+O001012,Tarjeta de crédito,3
+O001013,Transferencia,1
+O001014,PayPal,1
+O001015,Tarjeta de crédito,12
+O001016,PayPal,1
+O001017,Transferencia,1
+O001018,PayPal,1
+O001019,Tarjeta de débito,1
+O001020,PayPal,1
+O001021,Tarjeta de débito,1
+O001022,Transferencia,1
+O001023,Tarjeta de débito,1
+O001024,Tarjeta de crédito,2
+O001025,PayPal,1
+O001026,Tarjeta de débito,1
+O001027,Tarjeta de débito,1
+O001028,PayPal,1
+O001029,PayPal,1
+O001030,PayPal,1
+O001031,Transferencia,1
+O001032,Tarjeta de crédito,7
+O001033,Tarjeta de débito,1
+O001034,Tarjeta de crédito,12
+O001035,Transferencia,1
+O001036,Transferencia,1
+O001037,PayPal,1
+O001038,Tarjeta de débito,1
+O001039,Tarjeta de débito,1
+O001040,Tarjeta de débito,1
+O001041,Tarjeta de crédito,11
+O001042,Transferencia,1
+O001043,PayPal,1
+O001044,Tarjeta de débito,1
+O001045,Transferencia,1
+O001046,Transferencia,1
+O001047,Transferencia,1
+O001048,Tarjeta de débito,1
+O001049,PayPal,1
+O001050,Tarjeta de débito,1
+O001051,PayPal,1
+O001052,Tarjeta de débito,1
+O001053,PayPal,1
+O001054,Tarjeta de débito,1
+O001055,PayPal,1
+O001056,Transferencia,1
+O001057,Tarjeta de débito,1
+O001058,Tarjeta de débito,1
+O001059,Tarjeta de crédito,7
+O001060,Tarjeta de débito,1
+O001061,PayPal,1
+O001062,PayPal,1
+O001063,PayPal,1
+O001064,PayPal,1
+O001065,Tarjeta de débito,1
+O001066,Transferencia,1
+O001067,Transferencia,1
+O001068,PayPal,1
+O001069,Tarjeta de crédito,2
+O001070,PayPal,1
+O001071,PayPal,1
+O001072,Transferencia,1
+O001073,Tarjeta de débito,1
+O001074,Tarjeta de crédito,4
+O001075,Tarjeta de crédito,2
+O001076,Tarjeta de crédito,2
+O001077,Transferencia,1
+O001078,PayPal,1
+O001079,Tarjeta de débito,1
+O001080,PayPal,1
+O001081,PayPal,1
+O001082,Transferencia,1
+O001083,PayPal,1
+O001084,Tarjeta de crédito,8
+O001085,Tarjeta de débito,1
+O001086,Tarjeta de débito,1
+O001087,Tarjeta de crédito,12
+O001088,PayPal,1
+O001089,PayPal,1
+O001090,Transferencia,1
+O001091,Transferencia,1
+O001092,Tarjeta de débito,1
+O001093,PayPal,1
+O001094,PayPal,1
+O001095,Transferencia,1
+O001096,Tarjeta de débito,1
+O001097,Tarjeta de crédito,3
+O001098,PayPal,1
+O001099,Tarjeta de crédito,4
+O001100,Tarjeta de crédito,8
+O001101,PayPal,1
+O001102,PayPal,1
+O001103,Tarjeta de crédito,5
+O001104,Tarjeta de débito,1
+O001105,Tarjeta de débito,1
+O001106,Tarjeta de débito,1
+O001107,Tarjeta de débito,1
+O001108,Tarjeta de débito,1
+O001109,Tarjeta de crédito,5
+O001110,Tarjeta de crédito,11
+O001111,Transferencia,1
+O001112,Tarjeta de crédito,7
+O001113,Transferencia,1
+O001114,Tarjeta de débito,1
+O001115,PayPal,1
+O001116,PayPal,1
+O001117,Tarjeta de crédito,3
+O001118,PayPal,1
+O001119,Transferencia,1
+O001120,Tarjeta de crédito,8
+O001121,Transferencia,1
+O001122,PayPal,1
+O001123,Tarjeta de débito,1
+O001124,Tarjeta de débito,1
+O001125,Transferencia,1
+O001126,Transferencia,1
+O001127,PayPal,1
+O001128,Tarjeta de crédito,11
+O001129,Tarjeta de débito,1
+O001130,PayPal,1
+O001131,Tarjeta de crédito,1
+O001132,Tarjeta de débito,1
+O001133,Tarjeta de débito,1
+O001134,Transferencia,1
+O001135,PayPal,1
+O001136,Tarjeta de débito,1
+O001137,Tarjeta de débito,1
+O001138,PayPal,1
+O001139,PayPal,1
+O001140,Tarjeta de crédito,5
+O001141,Tarjeta de crédito,2
+O001142,Tarjeta de débito,1
+O001143,Tarjeta de débito,1
+O001144,Transferencia,1
+O001145,PayPal,1
+O001146,Tarjeta de débito,1
+O001147,PayPal,1
+O001148,Transferencia,1
+O001149,PayPal,1
+O001150,Tarjeta de débito,1
+O001151,PayPal,1
+O001152,Tarjeta de crédito,12
+O001153,Tarjeta de crédito,9
+O001154,PayPal,1
+O001155,Tarjeta de crédito,12
+O001156,Tarjeta de débito,1
+O001157,Transferencia,1
+O001158,PayPal,1
+O001159,PayPal,1
+O001160,Transferencia,1
+O001161,PayPal,1
+O001162,Tarjeta de crédito,10
+O001163,Transferencia,1
+O001164,PayPal,1
+O001165,Tarjeta de débito,1
+O001166,Transferencia,1
+O001167,Tarjeta de crédito,6
+O001168,Tarjeta de débito,1
+O001169,Transferencia,1
+O001170,Tarjeta de débito,1
+O001171,PayPal,1
+O001172,Tarjeta de crédito,9
+O001173,Transferencia,1
+O001174,Tarjeta de débito,1
+O001175,Tarjeta de débito,1
+O001176,Transferencia,1
+O001177,Tarjeta de crédito,11
+O001178,PayPal,1
+O001179,PayPal,1
+O001180,Transferencia,1
+O001181,Tarjeta de débito,1
+O001182,Tarjeta de débito,1
+O001183,Tarjeta de crédito,4
+O001184,PayPal,1
+O001185,Transferencia,1
+O001186,Tarjeta de débito,1
+O001187,PayPal,1
+O001188,Tarjeta de crédito,7
+O001189,Tarjeta de débito,1
+O001190,Tarjeta de débito,1
+O001191,Tarjeta de crédito,2
+O001192,PayPal,1
+O001193,PayPal,1
+O001194,Tarjeta de crédito,6
+O001195,Tarjeta de débito,1
+O001196,Tarjeta de débito,1
+O001197,Tarjeta de débito,1
+O001198,PayPal,1
+O001199,PayPal,1
+O001200,PayPal,1
+O001201,Tarjeta de débito,1
+O001202,Tarjeta de crédito,12
+O001203,Tarjeta de débito,1
+O001204,PayPal,1
+O001205,Tarjeta de débito,1
+O001206,Tarjeta de débito,1
+O001207,Tarjeta de débito,1
+O001208,PayPal,1
+O001209,Tarjeta de crédito,3
+O001210,PayPal,1
+O001211,PayPal,1
+O001212,Tarjeta de débito,1
+O001213,PayPal,1
+O001214,Tarjeta de débito,1
+O001215,Tarjeta de crédito,12
+O001216,PayPal,1
+O001217,Transferencia,1
+O001218,Tarjeta de débito,1
+O001219,Tarjeta de crédito,5
+O001220,Tarjeta de débito,1
+O001221,Transferencia,1
+O001222,Transferencia,1
+O001223,PayPal,1
+O001224,Tarjeta de crédito,9
+O001225,Transferencia,1
+O001226,Transferencia,1
+O001227,Transferencia,1
+O001228,PayPal,1
+O001229,Tarjeta de débito,1
+O001230,Tarjeta de débito,1
+O001231,Tarjeta de crédito,3
+O001232,PayPal,1
+O001233,Tarjeta de débito,1
+O001234,Tarjeta de débito,1
+O001235,Tarjeta de crédito,12
+O001236,Transferencia,1
+O001237,Transferencia,1
+O001238,PayPal,1
+O001239,Tarjeta de débito,1
+O001240,PayPal,1
+O001241,Tarjeta de débito,1
+O001242,Tarjeta de débito,1
+O001243,PayPal,1
+O001244,Transferencia,1
+O001245,Tarjeta de débito,1
+O001246,Transferencia,1
+O001247,Tarjeta de crédito,4
+O001248,Tarjeta de débito,1
+O001249,Tarjeta de débito,1
+O001250,PayPal,1
+O001251,Tarjeta de crédito,11
+O001252,Tarjeta de crédito,7
+O001253,PayPal,1
+O001254,PayPal,1
+O001255,PayPal,1
+O001256,Transferencia,1
+O001257,Transferencia,1
+O001258,PayPal,1
+O001259,Tarjeta de débito,1
+O001260,Tarjeta de crédito,10
+O001261,PayPal,1
+O001262,PayPal,1
+O001263,Transferencia,1
+O001264,PayPal,1
+O001265,Tarjeta de crédito,8
+O001266,Tarjeta de débito,1
+O001267,Tarjeta de débito,1
+O001268,Tarjeta de débito,1
+O001269,PayPal,1
+O001270,PayPal,1
+O001271,Tarjeta de crédito,3
+O001272,Transferencia,1
+O001273,Tarjeta de débito,1
+O001274,Tarjeta de crédito,9
+O001275,PayPal,1
+O001276,PayPal,1
+O001277,Tarjeta de crédito,6
+O001278,Transferencia,1
+O001279,PayPal,1
+O001280,Transferencia,1
+O001281,Tarjeta de débito,1
+O001282,PayPal,1
+O001283,Tarjeta de crédito,4
+O001284,Tarjeta de crédito,8
+O001285,Transferencia,1
+O001286,Tarjeta de débito,1
+O001287,Transferencia,1
+O001288,PayPal,1
+O001289,Tarjeta de crédito,6
+O001290,PayPal,1
+O001291,PayPal,1
+O001292,Tarjeta de débito,1
+O001293,Transferencia,1
+O001294,Tarjeta de débito,1
+O001295,Tarjeta de crédito,10
+O001296,PayPal,1
+O001297,PayPal,1
+O001298,PayPal,1
+O001299,Tarjeta de débito,1
+O001300,Tarjeta de crédito,2
+O001301,Tarjeta de débito,1
+O001302,Tarjeta de débito,1
+O001303,Tarjeta de débito,1
+O001304,Transferencia,1
+O001305,PayPal,1
+O001306,PayPal,1
+O001307,PayPal,1
+O001308,Tarjeta de crédito,8
+O001309,Transferencia,1
+O001310,Tarjeta de débito,1
+O001311,Tarjeta de crédito,6
+O001312,Transferencia,1
+O001313,Tarjeta de débito,1
+O001314,Tarjeta de crédito,6
+O001315,Transferencia,1
+O001316,Tarjeta de débito,1
+O001317,Tarjeta de crédito,12
+O001318,PayPal,1
+O001319,Tarjeta de débito,1
+O001320,Tarjeta de crédito,11
+O001321,Tarjeta de crédito,2
+O001322,Tarjeta de crédito,3
+O001323,PayPal,1
+O001324,Tarjeta de débito,1
+O001325,PayPal,1
+O001326,Tarjeta de crédito,10
+O001327,Tarjeta de crédito,1
+O001328,Tarjeta de débito,1
+O001329,PayPal,1
+O001330,Tarjeta de débito,1
+O001331,Tarjeta de débito,1
+O001332,Tarjeta de débito,1
+O001333,Tarjeta de crédito,3
+O001334,Tarjeta de débito,1
+O001335,Tarjeta de débito,1
+O001336,Transferencia,1
+O001337,Tarjeta de crédito,10
+O001338,PayPal,1
+O001339,Tarjeta de crédito,10
+O001340,Transferencia,1
+O001341,PayPal,1
+O001342,Tarjeta de crédito,4
+O001343,Tarjeta de crédito,11
+O001344,Tarjeta de crédito,8
+O001345,PayPal,1
+O001346,Tarjeta de crédito,12
+O001347,Tarjeta de crédito,11
+O001348,PayPal,1
+O001349,Transferencia,1
+O001350,Tarjeta de crédito,5
+O001351,PayPal,1
+O001352,Tarjeta de débito,1
+O001353,PayPal,1
+O001354,Tarjeta de débito,1
+O001355,Tarjeta de crédito,3
+O001356,Transferencia,1
+O001357,Tarjeta de débito,1
+O001358,PayPal,1
+O001359,PayPal,1
+O001360,Tarjeta de débito,1
+O001361,Tarjeta de débito,1
+O001362,PayPal,1
+O001363,Tarjeta de crédito,5
+O001364,Tarjeta de crédito,2
+O001365,PayPal,1
+O001366,PayPal,1
+O001367,Tarjeta de débito,1
+O001368,PayPal,1
+O001369,Tarjeta de crédito,2
+O001370,Tarjeta de crédito,9
+O001371,Transferencia,1
+O001372,PayPal,1
+O001373,Tarjeta de crédito,1
+O001374,Tarjeta de crédito,12
+O001375,Tarjeta de débito,1
+O001376,Tarjeta de crédito,12
+O001377,Transferencia,1
+O001378,Transferencia,1
+O001379,PayPal,1
+O001380,Tarjeta de crédito,7
+O001381,Tarjeta de débito,1
+O001382,Transferencia,1
+O001383,Tarjeta de crédito,3
+O001384,Transferencia,1
+O001385,Tarjeta de crédito,10
+O001386,Tarjeta de débito,1
+O001387,Transferencia,1
+O001388,Transferencia,1
+O001389,Transferencia,1
+O001390,Tarjeta de débito,1
+O001391,Transferencia,1
+O001392,PayPal,1
+O001393,Tarjeta de crédito,11
+O001394,PayPal,1
+O001395,PayPal,1
+O001396,Tarjeta de crédito,7
+O001397,Transferencia,1
+O001398,PayPal,1
+O001399,Tarjeta de débito,1
+O001400,Tarjeta de crédito,12
+O001401,Tarjeta de crédito,9
+O001402,Tarjeta de crédito,1
+O001403,Tarjeta de crédito,7
+O001404,Transferencia,1
+O001405,Tarjeta de débito,1
+O001406,Tarjeta de débito,1
+O001407,Tarjeta de crédito,4
+O001408,Tarjeta de crédito,5
+O001409,Tarjeta de débito,1
+O001410,Tarjeta de crédito,8
+O001411,Transferencia,1
+O001412,PayPal,1
+O001413,Tarjeta de débito,1
+O001414,Tarjeta de débito,1
+O001415,Tarjeta de débito,1
+O001416,Tarjeta de débito,1
+O001417,Tarjeta de crédito,11
+O001418,Tarjeta de crédito,1
+O001419,PayPal,1
+O001420,Tarjeta de débito,1
+O001421,Transferencia,1
+O001422,Tarjeta de crédito,10
+O001423,Tarjeta de crédito,11
+O001424,Tarjeta de débito,1
+O001425,Tarjeta de crédito,10
+O001426,Transferencia,1
+O001427,Tarjeta de débito,1
+O001428,Transferencia,1
+O001429,Tarjeta de crédito,11
+O001430,PayPal,1
+O001431,Tarjeta de crédito,12
+O001432,Tarjeta de débito,1
+O001433,Tarjeta de crédito,2
+O001434,PayPal,1
+O001435,Tarjeta de débito,1
+O001436,Tarjeta de débito,1
+O001437,Transferencia,1
+O001438,Tarjeta de crédito,8
+O001439,Transferencia,1
+O001440,Tarjeta de débito,1
+O001441,PayPal,1
+O001442,Tarjeta de crédito,12
+O001443,Tarjeta de débito,1
+O001444,Transferencia,1
+O001445,Tarjeta de débito,1
+O001446,Tarjeta de débito,1
+O001447,Transferencia,1
+O001448,Transferencia,1
+O001449,Tarjeta de débito,1
+O001450,Tarjeta de débito,1
+O001451,Transferencia,1
+O001452,Transferencia,1
+O001453,Transferencia,1
+O001454,Tarjeta de débito,1
+O001455,Tarjeta de crédito,12
+O001456,Tarjeta de débito,1
+O001457,Transferencia,1
+O001458,Tarjeta de crédito,8
+O001459,PayPal,1
+O001460,Tarjeta de crédito,7
+O001461,Transferencia,1
+O001462,Tarjeta de débito,1
+O001463,PayPal,1
+O001464,PayPal,1
+O001465,Transferencia,1
+O001466,PayPal,1
+O001467,Tarjeta de crédito,9
+O001468,Tarjeta de débito,1
+O001469,Transferencia,1
+O001470,PayPal,1
+O001471,Transferencia,1
+O001472,PayPal,1
+O001473,Transferencia,1
+O001474,Tarjeta de crédito,4
+O001475,PayPal,1
+O001476,Tarjeta de débito,1
+O001477,Transferencia,1
+O001478,Tarjeta de crédito,5
+O001479,PayPal,1
+O001480,PayPal,1
+O001481,Tarjeta de débito,1
+O001482,PayPal,1
+O001483,Transferencia,1
+O001484,Tarjeta de débito,1
+O001485,PayPal,1
+O001486,PayPal,1
+O001487,Tarjeta de débito,1
+O001488,Tarjeta de débito,1
+O001489,Tarjeta de crédito,6
+O001490,PayPal,1
+O001491,Tarjeta de crédito,11
+O001492,Transferencia,1
+O001493,Tarjeta de crédito,1
+O001494,Tarjeta de débito,1
+O001495,PayPal,1
+O001496,Tarjeta de débito,1
+O001497,Transferencia,1
+O001498,Tarjeta de crédito,5
+O001499,Tarjeta de débito,1
+O001500,Tarjeta de débito,1
+O001501,Tarjeta de crédito,2
+O001502,Transferencia,1
+O001503,Tarjeta de crédito,11
+O001504,Transferencia,1
+O001505,PayPal,1
+O001506,Tarjeta de crédito,4
+O001507,Tarjeta de débito,1
+O001508,Tarjeta de crédito,3
+O001509,PayPal,1
+O001510,Transferencia,1
+O001511,Transferencia,1
+O001512,Transferencia,1
+O001513,Transferencia,1
+O001514,PayPal,1
+O001515,Transferencia,1
+O001516,Tarjeta de débito,1
+O001517,Transferencia,1
+O001518,PayPal,1
+O001519,Tarjeta de débito,1
+O001520,PayPal,1
+O001521,Transferencia,1
+O001522,Tarjeta de crédito,6
+O001523,Tarjeta de débito,1
+O001524,PayPal,1
+O001525,Tarjeta de crédito,5
+O001526,Tarjeta de crédito,5
+O001527,Tarjeta de débito,1
+O001528,Tarjeta de débito,1
+O001529,PayPal,1
+O001530,PayPal,1
+O001531,PayPal,1
+O001532,Tarjeta de débito,1
+O001533,Tarjeta de débito,1
+O001534,Tarjeta de crédito,7
+O001535,Transferencia,1
+O001536,Tarjeta de débito,1
+O001537,PayPal,1
+O001538,Tarjeta de crédito,4
+O001539,Tarjeta de débito,1
+O001540,Tarjeta de crédito,7
+O001541,Tarjeta de crédito,8
+O001542,Tarjeta de crédito,8
+O001543,Tarjeta de crédito,2
+O001544,Tarjeta de crédito,10
+O001545,Tarjeta de débito,1
+O001546,PayPal,1
+O001547,Tarjeta de débito,1
+O001548,Tarjeta de crédito,9
+O001549,PayPal,1
+O001550,Tarjeta de crédito,4
+O001551,Transferencia,1
+O001552,PayPal,1
+O001553,Transferencia,1
+O001554,Tarjeta de crédito,8
+O001555,Tarjeta de débito,1
+O001556,Tarjeta de crédito,2
+O001557,PayPal,1
+O001558,Transferencia,1
+O001559,PayPal,1
+O001560,PayPal,1
+O001561,Transferencia,1
+O001562,Transferencia,1
+O001563,Tarjeta de débito,1
+O001564,Tarjeta de débito,1
+O001565,Tarjeta de débito,1
+O001566,Tarjeta de crédito,4
+O001567,PayPal,1
+O001568,Transferencia,1
+O001569,Tarjeta de crédito,2
+O001570,Tarjeta de débito,1
+O001571,Tarjeta de crédito,2
+O001572,PayPal,1
+O001573,Tarjeta de crédito,2
+O001574,Transferencia,1
+O001575,Tarjeta de crédito,1
+O001576,Transferencia,1
+O001577,PayPal,1
+O001578,Tarjeta de débito,1
+O001579,Tarjeta de crédito,10
+O001580,Transferencia,1
+O001581,Transferencia,1
+O001582,PayPal,1
+O001583,Tarjeta de crédito,3
+O001584,Tarjeta de crédito,11
+O001585,PayPal,1
+O001586,Tarjeta de débito,1
+O001587,PayPal,1
+O001588,Tarjeta de crédito,5
+O001589,Tarjeta de débito,1
+O001590,PayPal,1
+O001591,Transferencia,1
+O001592,Tarjeta de crédito,6
+O001593,Tarjeta de crédito,8
+O001594,Tarjeta de débito,1
+O001595,PayPal,1
+O001596,PayPal,1
+O001597,Tarjeta de débito,1
+O001598,Transferencia,1
+O001599,Tarjeta de crédito,12
+O001600,PayPal,1
+O001601,Transferencia,1
+O001602,PayPal,1
+O001603,PayPal,1
+O001604,PayPal,1
+O001605,Tarjeta de débito,1
+O001606,PayPal,1
+O001607,Tarjeta de débito,1
+O001608,Tarjeta de débito,1
+O001609,Tarjeta de crédito,11
+O001610,PayPal,1
+O001611,Tarjeta de débito,1
+O001612,Tarjeta de crédito,4
+O001613,Transferencia,1
+O001614,PayPal,1
+O001615,PayPal,1
+O001616,Transferencia,1
+O001617,Tarjeta de crédito,6
+O001618,Tarjeta de crédito,7
+O001619,Tarjeta de crédito,9
+O001620,Tarjeta de crédito,6
+O001621,Tarjeta de débito,1
+O001622,Tarjeta de débito,1
+O001623,Tarjeta de crédito,8
+O001624,Transferencia,1
+O001625,PayPal,1
+O001626,Tarjeta de crédito,12
+O001627,Tarjeta de débito,1
+O001628,PayPal,1
+O001629,Tarjeta de débito,1
+O001630,PayPal,1
+O001631,PayPal,1
+O001632,PayPal,1
+O001633,Transferencia,1
+O001634,Tarjeta de débito,1
+O001635,Transferencia,1
+O001636,Tarjeta de crédito,11
+O001637,Tarjeta de débito,1
+O001638,Tarjeta de débito,1
+O001639,Tarjeta de crédito,3
+O001640,Tarjeta de débito,1
+O001641,Tarjeta de débito,1
+O001642,PayPal,1
+O001643,PayPal,1
+O001644,Tarjeta de débito,1
+O001645,Tarjeta de débito,1
+O001646,Tarjeta de débito,1
+O001647,Transferencia,1
+O001648,PayPal,1
+O001649,Tarjeta de crédito,12
+O001650,Tarjeta de débito,1
+O001651,PayPal,1
+O001652,Tarjeta de débito,1
+O001653,Transferencia,1
+O001654,Tarjeta de crédito,5
+O001655,Tarjeta de débito,1
+O001656,Transferencia,1
+O001657,Transferencia,1
+O001658,Transferencia,1
+O001659,Transferencia,1
+O001660,Tarjeta de crédito,1
+O001661,Tarjeta de crédito,1
+O001662,PayPal,1
+O001663,Tarjeta de crédito,10
+O001664,Transferencia,1
+O001665,PayPal,1
+O001666,Tarjeta de crédito,3
+O001667,PayPal,1
+O001668,PayPal,1
+O001669,Tarjeta de débito,1
+O001670,Tarjeta de débito,1
+O001671,PayPal,1
+O001672,Transferencia,1
+O001673,Tarjeta de crédito,8
+O001674,Transferencia,1
+O001675,PayPal,1
+O001676,PayPal,1
+O001677,PayPal,1
+O001678,Tarjeta de débito,1
+O001679,Tarjeta de crédito,6
+O001680,Tarjeta de crédito,7
+O001681,Tarjeta de débito,1
+O001682,Transferencia,1
+O001683,Tarjeta de crédito,6
+O001684,Transferencia,1
+O001685,Tarjeta de débito,1
+O001686,PayPal,1
+O001687,Transferencia,1
+O001688,PayPal,1
+O001689,Tarjeta de crédito,1
+O001690,Transferencia,1
+O001691,Tarjeta de crédito,5
+O001692,Tarjeta de débito,1
+O001693,Tarjeta de débito,1
+O001694,Transferencia,1
+O001695,PayPal,1
+O001696,Transferencia,1
+O001697,PayPal,1
+O001698,Tarjeta de débito,1
+O001699,Tarjeta de crédito,5
+O001700,Tarjeta de débito,1
+O001701,Tarjeta de débito,1
+O001702,Tarjeta de crédito,1
+O001703,Transferencia,1
+O001704,PayPal,1
+O001705,Tarjeta de crédito,2
+O001706,Tarjeta de crédito,7
+O001707,Transferencia,1
+O001708,Tarjeta de débito,1
+O001709,PayPal,1
+O001710,Tarjeta de crédito,1
+O001711,Transferencia,1
+O001712,Transferencia,1
+O001713,Transferencia,1
+O001714,Tarjeta de crédito,4
+O001715,Tarjeta de débito,1
+O001716,Transferencia,1
+O001717,Transferencia,1
+O001718,Transferencia,1
+O001719,Tarjeta de crédito,2
+O001720,Transferencia,1
+O001721,Tarjeta de débito,1
+O001722,Transferencia,1
+O001723,Tarjeta de crédito,2
+O001724,PayPal,1
+O001725,Transferencia,1
+O001726,Transferencia,1
+O001727,Tarjeta de crédito,7
+O001728,Transferencia,1
+O001729,PayPal,1
+O001730,PayPal,1
+O001731,Transferencia,1
+O001732,PayPal,1
+O001733,Transferencia,1
+O001734,Transferencia,1
+O001735,PayPal,1
+O001736,Transferencia,1
+O001737,Tarjeta de débito,1
+O001738,Tarjeta de débito,1
+O001739,Tarjeta de crédito,6
+O001740,Tarjeta de débito,1
+O001741,PayPal,1
+O001742,Tarjeta de débito,1
+O001743,PayPal,1
+O001744,Tarjeta de crédito,12
+O001745,Transferencia,1
+O001746,Tarjeta de crédito,9
+O001747,Tarjeta de crédito,3
+O001748,PayPal,1
+O001749,Transferencia,1
+O001750,PayPal,1
+O001751,Transferencia,1
+O001752,PayPal,1
+O001753,PayPal,1
+O001754,Tarjeta de débito,1
+O001755,Transferencia,1
+O001756,Transferencia,1
+O001757,Tarjeta de crédito,2
+O001758,Transferencia,1
+O001759,Tarjeta de crédito,11
+O001760,PayPal,1
+O001761,PayPal,1
+O001762,Tarjeta de débito,1
+O001763,Transferencia,1
+O001764,PayPal,1
+O001765,PayPal,1
+O001766,PayPal,1
+O001767,PayPal,1
+O001768,Tarjeta de crédito,9
+O001769,Transferencia,1
+O001770,Tarjeta de crédito,6
+O001771,Tarjeta de crédito,1
+O001772,PayPal,1
+O001773,PayPal,1
+O001774,Tarjeta de débito,1
+O001775,Tarjeta de débito,1
+O001776,PayPal,1
+O001777,Tarjeta de crédito,3
+O001778,Transferencia,1
+O001779,Transferencia,1
+O001780,Transferencia,1
+O001781,Transferencia,1
+O001782,Tarjeta de débito,1
+O001783,Transferencia,1
+O001784,Tarjeta de crédito,12
+O001785,Tarjeta de crédito,12
+O001786,Tarjeta de crédito,10
+O001787,PayPal,1
+O001788,Tarjeta de débito,1
+O001789,PayPal,1
+O001790,Tarjeta de crédito,3
+O001791,Tarjeta de crédito,5
+O001792,Transferencia,1
+O001793,PayPal,1
+O001794,Transferencia,1
+O001795,PayPal,1
+O001796,Tarjeta de débito,1
+O001797,PayPal,1
+O001798,Transferencia,1
+O001799,Tarjeta de crédito,11
+O001800,Tarjeta de débito,1
+O001801,PayPal,1
+O001802,Tarjeta de crédito,4
+O001803,Tarjeta de débito,1
+O001804,Tarjeta de débito,1
+O001805,Tarjeta de débito,1
+O001806,Transferencia,1
+O001807,PayPal,1
+O001808,PayPal,1
+O001809,PayPal,1
+O001810,Tarjeta de débito,1
+O001811,Tarjeta de crédito,3
+O001812,Tarjeta de crédito,10
+O001813,Tarjeta de crédito,5
+O001814,PayPal,1
+O001815,Tarjeta de débito,1
+O001816,Tarjeta de débito,1
+O001817,PayPal,1
+O001818,Transferencia,1
+O001819,Tarjeta de débito,1
+O001820,Tarjeta de crédito,4
+O001821,Transferencia,1
+O001822,Tarjeta de débito,1
+O001823,Transferencia,1
+O001824,PayPal,1
+O001825,Transferencia,1
+O001826,Transferencia,1
+O001827,PayPal,1
+O001828,Tarjeta de crédito,5
+O001829,Tarjeta de crédito,3
+O001830,PayPal,1
+O001831,Transferencia,1
+O001832,PayPal,1
+O001833,PayPal,1
+O001834,Tarjeta de débito,1
+O001835,Transferencia,1
+O001836,Tarjeta de débito,1
+O001837,Transferencia,1
+O001838,Tarjeta de crédito,9
+O001839,Transferencia,1
+O001840,Transferencia,1
+O001841,Tarjeta de crédito,2
+O001842,Tarjeta de débito,1
+O001843,PayPal,1
+O001844,PayPal,1
+O001845,PayPal,1
+O001846,Transferencia,1
+O001847,Transferencia,1
+O001848,Transferencia,1
+O001849,Tarjeta de débito,1
+O001850,Tarjeta de débito,1
+O001851,PayPal,1
+O001852,PayPal,1
+O001853,PayPal,1
+O001854,Tarjeta de crédito,6
+O001855,Transferencia,1
+O001856,Tarjeta de débito,1
+O001857,Transferencia,1
+O001858,PayPal,1
+O001859,Tarjeta de crédito,12
+O001860,Tarjeta de crédito,4
+O001861,PayPal,1
+O001862,Tarjeta de crédito,1
+O001863,PayPal,1
+O001864,Tarjeta de débito,1
+O001865,Tarjeta de débito,1
+O001866,Transferencia,1
+O001867,Transferencia,1
+O001868,Tarjeta de crédito,1
+O001869,Tarjeta de crédito,8
+O001870,Transferencia,1
+O001871,Tarjeta de crédito,9
+O001872,Transferencia,1
+O001873,Tarjeta de crédito,8
+O001874,Tarjeta de crédito,6
+O001875,PayPal,1
+O001876,Tarjeta de crédito,10
+O001877,Tarjeta de débito,1
+O001878,PayPal,1
+O001879,Transferencia,1
+O001880,Tarjeta de crédito,1
+O001881,Transferencia,1
+O001882,Tarjeta de débito,1
+O001883,PayPal,1
+O001884,Tarjeta de débito,1
+O001885,Tarjeta de crédito,7
+O001886,Tarjeta de débito,1
+O001887,Tarjeta de débito,1
+O001888,PayPal,1
+O001889,PayPal,1
+O001890,Tarjeta de crédito,8
+O001891,Tarjeta de débito,1
+O001892,Tarjeta de débito,1
+O001893,PayPal,1
+O001894,PayPal,1
+O001895,PayPal,1
+O001896,Tarjeta de crédito,3
+O001897,PayPal,1
+O001898,Tarjeta de débito,1
+O001899,Tarjeta de débito,1
+O001900,Tarjeta de débito,1
+O001901,Tarjeta de débito,1
+O001902,Tarjeta de débito,1
+O001903,PayPal,1
+O001904,Tarjeta de débito,1
+O001905,Tarjeta de débito,1
+O001906,Transferencia,1
+O001907,Tarjeta de débito,1
+O001908,Tarjeta de débito,1
+O001909,Tarjeta de crédito,11
+O001910,Transferencia,1
+O001911,Transferencia,1
+O001912,Transferencia,1
+O001913,Tarjeta de débito,1
+O001914,Transferencia,1
+O001915,Tarjeta de crédito,4
+O001916,Tarjeta de débito,1
+O001917,Tarjeta de débito,1
+O001918,Tarjeta de débito,1
+O001919,Transferencia,1
+O001920,Transferencia,1
+O001921,Transferencia,1
+O001922,Transferencia,1
+O001923,Transferencia,1
+O001924,Tarjeta de crédito,6
+O001925,Tarjeta de crédito,5
+O001926,Tarjeta de crédito,6
+O001927,Tarjeta de débito,1
+O001928,PayPal,1
+O001929,Tarjeta de débito,1
+O001930,PayPal,1
+O001931,PayPal,1
+O001932,Tarjeta de crédito,8
+O001933,Tarjeta de débito,1
+O001934,Transferencia,1
+O001935,Transferencia,1
+O001936,Tarjeta de crédito,6
+O001937,PayPal,1
+O001938,PayPal,1
+O001939,Transferencia,1
+O001940,Tarjeta de crédito,3
+O001941,Transferencia,1
+O001942,Transferencia,1
+O001943,PayPal,1
+O001944,Tarjeta de crédito,11
+O001945,Transferencia,1
+O001946,Tarjeta de débito,1
+O001947,PayPal,1
+O001948,Tarjeta de crédito,8
+O001949,Tarjeta de crédito,3
+O001950,Tarjeta de crédito,3
+O001951,Tarjeta de débito,1
+O001952,Transferencia,1
+O001953,Tarjeta de débito,1
+O001954,Transferencia,1
+O001955,Tarjeta de débito,1
+O001956,Transferencia,1
+O001957,Tarjeta de crédito,5
+O001958,Transferencia,1
+O001959,Tarjeta de débito,1
+O001960,Tarjeta de crédito,7
+O001961,Tarjeta de débito,1
+O001962,Tarjeta de crédito,12
+O001963,Tarjeta de crédito,6
+O001964,PayPal,1
+O001965,Tarjeta de crédito,8
+O001966,Transferencia,1
+O001967,Transferencia,1
+O001968,PayPal,1
+O001969,Tarjeta de débito,1
+O001970,Transferencia,1
+O001971,Tarjeta de débito,1
+O001972,Tarjeta de débito,1
+O001973,Tarjeta de crédito,3
+O001974,Transferencia,1
+O001975,Tarjeta de crédito,11
+O001976,Tarjeta de débito,1
+O001977,Tarjeta de débito,1
+O001978,Tarjeta de crédito,7
+O001979,Tarjeta de crédito,1
+O001980,Tarjeta de débito,1
+O001981,Transferencia,1
+O001982,PayPal,1
+O001983,Tarjeta de crédito,4
+O001984,Tarjeta de débito,1
+O001985,Tarjeta de crédito,6
+O001986,Tarjeta de débito,1
+O001987,Tarjeta de crédito,6
+O001988,PayPal,1
+O001989,Tarjeta de débito,1
+O001990,PayPal,1
+O001991,Tarjeta de débito,1
+O001992,Tarjeta de débito,1
+O001993,Transferencia,1
+O001994,PayPal,1
+O001995,Transferencia,1
+O001996,Tarjeta de crédito,4
+O001997,Tarjeta de crédito,5
+O001998,Tarjeta de débito,1
+O001999,Tarjeta de débito,1
+O002000,Tarjeta de débito,1
+O002001,Transferencia,1
+O002002,Tarjeta de crédito,9
+O002003,PayPal,1
+O002004,Tarjeta de crédito,11
+O002005,Tarjeta de débito,1
+O002006,Tarjeta de crédito,2
+O002007,Tarjeta de débito,1
+O002008,Tarjeta de débito,1
+O002009,Tarjeta de crédito,7
+O002010,Tarjeta de débito,1
+O002011,PayPal,1
+O002012,Tarjeta de crédito,6
+O002013,Transferencia,1
+O002014,Transferencia,1
+O002015,Tarjeta de débito,1
+O002016,Transferencia,1
+O002017,Transferencia,1
+O002018,Tarjeta de débito,1
+O002019,Tarjeta de crédito,9
+O002020,Transferencia,1
+O002021,Tarjeta de crédito,7
+O002022,Transferencia,1
+O002023,PayPal,1
+O002024,PayPal,1
+O002025,Transferencia,1
+O002026,Tarjeta de crédito,6
+O002027,Tarjeta de débito,1
+O002028,Tarjeta de débito,1
+O002029,Tarjeta de débito,1
+O002030,Tarjeta de crédito,11
+O002031,Tarjeta de débito,1
+O002032,PayPal,1
+O002033,Tarjeta de crédito,2
+O002034,Tarjeta de débito,1
+O002035,Transferencia,1
+O002036,Tarjeta de crédito,12
+O002037,Transferencia,1
+O002038,Tarjeta de débito,1
+O002039,Tarjeta de débito,1
+O002040,Tarjeta de débito,1
+O002041,Tarjeta de débito,1
+O002042,Transferencia,1
+O002043,Tarjeta de débito,1
+O002044,Tarjeta de crédito,7
+O002045,Tarjeta de crédito,6
+O002046,Tarjeta de débito,1
+O002047,Tarjeta de crédito,5
+O002048,Tarjeta de crédito,2
+O002049,Transferencia,1
+O002050,Transferencia,1
+O002051,PayPal,1
+O002052,Transferencia,1
+O002053,Tarjeta de crédito,1
+O002054,Tarjeta de crédito,10
+O002055,PayPal,1
+O002056,Transferencia,1
+O002057,PayPal,1
+O002058,PayPal,1
+O002059,PayPal,1
+O002060,Tarjeta de crédito,6
+O002061,Transferencia,1
+O002062,Tarjeta de débito,1
+O002063,Transferencia,1
+O002064,Transferencia,1
+O002065,Transferencia,1
+O002066,Tarjeta de débito,1
+O002067,Transferencia,1
+O002068,PayPal,1
+O002069,Transferencia,1
+O002070,Tarjeta de débito,1
+O002071,Tarjeta de crédito,11
+O002072,Transferencia,1
+O002073,PayPal,1
+O002074,Tarjeta de crédito,6
+O002075,PayPal,1
+O002076,Tarjeta de crédito,5
+O002077,Tarjeta de débito,1
+O002078,Tarjeta de débito,1
+O002079,Tarjeta de crédito,9
+O002080,Transferencia,1
+O002081,Tarjeta de crédito,10
+O002082,Tarjeta de crédito,5
+O002083,Transferencia,1
+O002084,Tarjeta de débito,1
+O002085,Tarjeta de crédito,3
+O002086,Tarjeta de débito,1
+O002087,Transferencia,1
+O002088,PayPal,1
+O002089,PayPal,1
+O002090,Transferencia,1
+O002091,PayPal,1
+O002092,PayPal,1
+O002093,Transferencia,1
+O002094,Tarjeta de débito,1
+O002095,Tarjeta de crédito,11
+O002096,Tarjeta de débito,1
+O002097,PayPal,1
+O002098,PayPal,1
+O002099,Tarjeta de débito,1
+O002100,Tarjeta de débito,1
+O002101,Tarjeta de débito,1
+O002102,Transferencia,1
+O002103,PayPal,1
+O002104,Tarjeta de crédito,2
+O002105,Tarjeta de débito,1
+O002106,Transferencia,1
+O002107,Tarjeta de débito,1
+O002108,PayPal,1
+O002109,Tarjeta de crédito,12
+O002110,Tarjeta de crédito,7
+O002111,Tarjeta de crédito,4
+O002112,Tarjeta de débito,1
+O002113,Transferencia,1
+O002114,Tarjeta de débito,1
+O002115,PayPal,1
+O002116,Tarjeta de crédito,9
+O002117,Transferencia,1
+O002118,PayPal,1
+O002119,PayPal,1
+O002120,PayPal,1
+O002121,Tarjeta de débito,1
+O002122,Tarjeta de crédito,4
+O002123,Tarjeta de débito,1
+O002124,Tarjeta de débito,1
+O002125,Transferencia,1
+O002126,PayPal,1
+O002127,Transferencia,1
+O002128,Tarjeta de débito,1
+O002129,PayPal,1
+O002130,Tarjeta de débito,1
+O002131,Tarjeta de crédito,10
+O002132,Tarjeta de crédito,9
+O002133,Transferencia,1
+O002134,Tarjeta de crédito,6
+O002135,PayPal,1
+O002136,Transferencia,1
+O002137,Tarjeta de crédito,3
+O002138,PayPal,1
+O002139,Tarjeta de crédito,1
+O002140,Tarjeta de débito,1
+O002141,Transferencia,1
+O002142,Tarjeta de débito,1
+O002143,PayPal,1
+O002144,PayPal,1
+O002145,Transferencia,1
+O002146,PayPal,1
+O002147,Tarjeta de débito,1
+O002148,Transferencia,1
+O002149,Tarjeta de crédito,12
+O002150,Tarjeta de crédito,2
+O002151,Transferencia,1
+O002152,Tarjeta de crédito,7
+O002153,Tarjeta de débito,1
+O002154,Transferencia,1
+O002155,Tarjeta de crédito,10
+O002156,Tarjeta de débito,1
+O002157,Tarjeta de débito,1
+O002158,Transferencia,1
+O002159,PayPal,1
+O002160,PayPal,1
+O002161,Tarjeta de débito,1
+O002162,Transferencia,1
+O002163,Tarjeta de crédito,8
+O002164,Transferencia,1
+O002165,Tarjeta de crédito,6
+O002166,Tarjeta de crédito,2
+O002167,Tarjeta de débito,1
+O002168,PayPal,1
+O002169,PayPal,1
+O002170,PayPal,1
+O002171,Transferencia,1
+O002172,Transferencia,1
+O002173,Tarjeta de débito,1
+O002174,PayPal,1
+O002175,Transferencia,1
+O002176,Tarjeta de débito,1
+O002177,Transferencia,1
+O002178,Transferencia,1
+O002179,Tarjeta de débito,1
+O002180,Tarjeta de crédito,11
+O002181,PayPal,1
+O002182,Transferencia,1
+O002183,Transferencia,1
+O002184,Tarjeta de débito,1
+O002185,PayPal,1
+O002186,Tarjeta de débito,1
+O002187,Tarjeta de débito,1
+O002188,Tarjeta de débito,1
+O002189,Transferencia,1
+O002190,Tarjeta de débito,1
+O002191,Tarjeta de débito,1
+O002192,Transferencia,1
+O002193,Tarjeta de débito,1
+O002194,Transferencia,1
+O002195,Transferencia,1
+O002196,Tarjeta de crédito,5
+O002197,Transferencia,1
+O002198,Tarjeta de débito,1
+O002199,Tarjeta de crédito,11
+O002200,PayPal,1
+O002201,Tarjeta de débito,1
+O002202,PayPal,1
+O002203,Tarjeta de crédito,11
+O002204,PayPal,1
+O002205,Tarjeta de débito,1
+O002206,Tarjeta de crédito,1
+O002207,Transferencia,1
+O002208,PayPal,1
+O002209,Tarjeta de débito,1
+O002210,Tarjeta de débito,1
+O002211,PayPal,1
+O002212,Tarjeta de crédito,7
+O002213,Transferencia,1
+O002214,PayPal,1
+O002215,Tarjeta de crédito,12
+O002216,Transferencia,1
+O002217,Transferencia,1
+O002218,PayPal,1
+O002219,Tarjeta de débito,1
+O002220,Tarjeta de crédito,9
+O002221,PayPal,1
+O002222,PayPal,1
+O002223,Tarjeta de débito,1
+O002224,Tarjeta de débito,1
+O002225,PayPal,1
+O002226,Tarjeta de débito,1
+O002227,Tarjeta de crédito,11
+O002228,PayPal,1
+O002229,PayPal,1
+O002230,PayPal,1
+O002231,PayPal,1
+O002232,Tarjeta de débito,1
+O002233,Tarjeta de crédito,12
+O002234,Tarjeta de débito,1
+O002235,Transferencia,1
+O002236,Transferencia,1
+O002237,Transferencia,1
+O002238,Tarjeta de débito,1
+O002239,Tarjeta de débito,1
+O002240,Tarjeta de débito,1
+O002241,Tarjeta de débito,1
+O002242,Tarjeta de débito,1
+O002243,Tarjeta de débito,1
+O002244,Tarjeta de crédito,7
+O002245,Tarjeta de crédito,3
+O002246,Tarjeta de débito,1
+O002247,Tarjeta de crédito,9
+O002248,Tarjeta de débito,1
+O002249,PayPal,1
+O002250,PayPal,1
+O002251,Tarjeta de crédito,2
+O002252,Tarjeta de débito,1
+O002253,Tarjeta de crédito,4
+O002254,PayPal,1
+O002255,Tarjeta de crédito,8
+O002256,Tarjeta de crédito,5
+O002257,Tarjeta de crédito,6
+O002258,Tarjeta de débito,1
+O002259,PayPal,1
+O002260,Tarjeta de débito,1
+O002261,Tarjeta de crédito,5
+O002262,Tarjeta de crédito,1
+O002263,PayPal,1
+O002264,Transferencia,1
+O002265,Transferencia,1
+O002266,Tarjeta de débito,1
+O002267,PayPal,1
+O002268,PayPal,1
+O002269,Transferencia,1
+O002270,Transferencia,1
+O002271,Transferencia,1
+O002272,Tarjeta de débito,1
+O002273,PayPal,1
+O002274,PayPal,1
+O002275,Tarjeta de débito,1
+O002276,Tarjeta de débito,1
+O002277,Tarjeta de débito,1
+O002278,PayPal,1
+O002279,Tarjeta de crédito,11
+O002280,Tarjeta de débito,1
+O002281,PayPal,1
+O002282,Tarjeta de crédito,1
+O002283,Tarjeta de débito,1
+O002284,PayPal,1
+O002285,Tarjeta de crédito,3
+O002286,Tarjeta de crédito,10
+O002287,Tarjeta de crédito,7
+O002288,PayPal,1
+O002289,Tarjeta de débito,1
+O002290,Tarjeta de débito,1
+O002291,Tarjeta de crédito,4
+O002292,Tarjeta de crédito,12
+O002293,Transferencia,1
+O002294,Transferencia,1
+O002295,Tarjeta de crédito,2
+O002296,Tarjeta de débito,1
+O002297,Tarjeta de crédito,4
+O002298,Tarjeta de débito,1
+O002299,Tarjeta de débito,1
+O002300,Tarjeta de crédito,10
+O002301,PayPal,1
+O002302,PayPal,1
+O002303,PayPal,1
+O002304,Tarjeta de crédito,6
+O002305,Tarjeta de débito,1
+O002306,Transferencia,1
+O002307,Tarjeta de débito,1
+O002308,Tarjeta de débito,1
+O002309,Tarjeta de débito,1
+O002310,PayPal,1
+O002311,Transferencia,1
+O002312,Transferencia,1
+O002313,Tarjeta de crédito,3
+O002314,Tarjeta de crédito,8
+O002315,PayPal,1
+O002316,Tarjeta de crédito,5
+O002317,Tarjeta de débito,1
+O002318,Tarjeta de débito,1
+O002319,Transferencia,1
+O002320,PayPal,1
+O002321,Transferencia,1
+O002322,PayPal,1
+O002323,Transferencia,1
+O002324,Tarjeta de crédito,12
+O002325,Tarjeta de crédito,3
+O002326,Transferencia,1
+O002327,Tarjeta de crédito,4
+O002328,Transferencia,1
+O002329,Tarjeta de crédito,3
+O002330,Transferencia,1
+O002331,Tarjeta de crédito,6
+O002332,Transferencia,1
+O002333,Transferencia,1
+O002334,Tarjeta de débito,1
+O002335,Tarjeta de crédito,10
+O002336,Tarjeta de débito,1
+O002337,Tarjeta de crédito,11
+O002338,Tarjeta de crédito,3
+O002339,Transferencia,1
+O002340,Transferencia,1
+O002341,Tarjeta de débito,1
+O002342,Transferencia,1
+O002343,PayPal,1
+O002344,Tarjeta de débito,1
+O002345,Tarjeta de crédito,9
+O002346,Tarjeta de débito,1
+O002347,PayPal,1
+O002348,Transferencia,1
+O002349,Tarjeta de crédito,11
+O002350,Transferencia,1
+O002351,Tarjeta de crédito,1
+O002352,Transferencia,1
+O002353,Tarjeta de débito,1
+O002354,Tarjeta de crédito,6
+O002355,Tarjeta de crédito,12
+O002356,PayPal,1
+O002357,PayPal,1
+O002358,Transferencia,1
+O002359,Tarjeta de débito,1
+O002360,Transferencia,1
+O002361,Tarjeta de crédito,2
+O002362,Tarjeta de crédito,10
+O002363,Tarjeta de crédito,11
+O002364,PayPal,1
+O002365,Transferencia,1
+O002366,Transferencia,1
+O002367,Transferencia,1
+O002368,Tarjeta de crédito,6
+O002369,PayPal,1
+O002370,Tarjeta de débito,1
+O002371,Tarjeta de crédito,1
+O002372,PayPal,1
+O002373,Transferencia,1
+O002374,Tarjeta de débito,1
+O002375,Transferencia,1
+O002376,Tarjeta de débito,1
+O002377,Tarjeta de crédito,11
+O002378,PayPal,1
+O002379,Tarjeta de crédito,7
+O002380,Tarjeta de débito,1
+O002381,Tarjeta de crédito,10
+O002382,Transferencia,1
+O002383,Tarjeta de débito,1
+O002384,Transferencia,1
+O002385,Tarjeta de crédito,3
+O002386,Tarjeta de crédito,2
+O002387,PayPal,1
+O002388,Transferencia,1
+O002389,Transferencia,1
+O002390,Tarjeta de crédito,8
+O002391,Transferencia,1
+O002392,Tarjeta de débito,1
+O002393,Tarjeta de crédito,2
+O002394,Tarjeta de crédito,3
+O002395,Tarjeta de crédito,9
+O002396,Tarjeta de débito,1
+O002397,Tarjeta de débito,1
+O002398,Tarjeta de débito,1
+O002399,Tarjeta de débito,1
+O002400,Tarjeta de crédito,6
+O002401,Transferencia,1
+O002402,PayPal,1
+O002403,Tarjeta de débito,1
+O002404,Transferencia,1
+O002405,PayPal,1
+O002406,Transferencia,1
+O002407,Tarjeta de crédito,8
+O002408,PayPal,1
+O002409,PayPal,1
+O002410,Transferencia,1
+O002411,Tarjeta de crédito,4
+O002412,Tarjeta de crédito,1
+O002413,PayPal,1
+O002414,PayPal,1
+O002415,Transferencia,1
+O002416,Tarjeta de débito,1
+O002417,PayPal,1
+O002418,Transferencia,1
+O002419,Tarjeta de crédito,8
+O002420,Tarjeta de crédito,8
+O002421,Transferencia,1
+O002422,PayPal,1
+O002423,Tarjeta de crédito,8
+O002424,Tarjeta de crédito,6
+O002425,Transferencia,1
+O002426,PayPal,1
+O002427,Tarjeta de crédito,9
+O002428,Transferencia,1
+O002429,Tarjeta de crédito,6
+O002430,Tarjeta de débito,1
+O002431,Tarjeta de débito,1
+O002432,Transferencia,1
+O002433,Tarjeta de débito,1
+O002434,Tarjeta de crédito,5
+O002435,Tarjeta de crédito,5
+O002436,PayPal,1
+O002437,Transferencia,1
+O002438,PayPal,1
+O002439,Transferencia,1
+O002440,Tarjeta de débito,1
+O002441,Transferencia,1
+O002442,PayPal,1
+O002443,Tarjeta de débito,1
+O002444,Tarjeta de crédito,8
+O002445,Tarjeta de crédito,11
+O002446,Tarjeta de débito,1
+O002447,PayPal,1
+O002448,Tarjeta de débito,1
+O002449,Tarjeta de débito,1
+O002450,Tarjeta de débito,1
+O002451,Tarjeta de débito,1
+O002452,Tarjeta de débito,1
+O002453,Tarjeta de crédito,8
+O002454,Transferencia,1
+O002455,Tarjeta de crédito,6
+O002456,Transferencia,1
+O002457,PayPal,1
+O002458,Transferencia,1
+O002459,Tarjeta de débito,1
+O002460,Transferencia,1
+O002461,Tarjeta de crédito,11
+O002462,Tarjeta de crédito,1
+O002463,PayPal,1
+O002464,Tarjeta de crédito,5
+O002465,Transferencia,1
+O002466,PayPal,1
+O002467,PayPal,1
+O002468,Tarjeta de débito,1
+O002469,Tarjeta de débito,1
+O002470,Tarjeta de débito,1
+O002471,Transferencia,1
+O002472,Tarjeta de crédito,3
+O002473,PayPal,1
+O002474,Transferencia,1
+O002475,Tarjeta de crédito,10
+O002476,Tarjeta de débito,1
+O002477,PayPal,1
+O002478,PayPal,1
+O002479,PayPal,1
+O002480,PayPal,1
+O002481,Tarjeta de crédito,3
+O002482,Transferencia,1
+O002483,Transferencia,1
+O002484,Tarjeta de débito,1
+O002485,Transferencia,1
+O002486,PayPal,1
+O002487,PayPal,1
+O002488,PayPal,1
+O002489,Transferencia,1
+O002490,Transferencia,1
+O002491,Tarjeta de débito,1
+O002492,Tarjeta de débito,1
+O002493,PayPal,1
+O002494,Tarjeta de crédito,4
+O002495,Transferencia,1
+O002496,Tarjeta de crédito,1
+O002497,Tarjeta de débito,1
+O002498,PayPal,1
+O002499,Transferencia,1
+O002500,Tarjeta de débito,1
+O002501,PayPal,1
+O002502,Transferencia,1
+O002503,PayPal,1
+O002504,PayPal,1
+O002505,PayPal,1
+O002506,Tarjeta de débito,1
+O002507,Transferencia,1
+O002508,Tarjeta de crédito,3
+O002509,PayPal,1
+O002510,Transferencia,1
+O002511,Tarjeta de crédito,3
+O002512,PayPal,1
+O002513,PayPal,1
+O002514,Tarjeta de débito,1
+O002515,Transferencia,1
+O002516,Tarjeta de crédito,5
+O002517,Tarjeta de crédito,5
+O002518,Tarjeta de crédito,12
+O002519,Transferencia,1
+O002520,Tarjeta de débito,1
+O002521,Tarjeta de crédito,8
+O002522,Tarjeta de crédito,3
+O002523,Tarjeta de crédito,4
+O002524,Tarjeta de crédito,9
+O002525,Transferencia,1
+O002526,Transferencia,1
+O002527,Tarjeta de débito,1
+O002528,Tarjeta de débito,1
+O002529,Tarjeta de débito,1
+O002530,Tarjeta de crédito,10
+O002531,Transferencia,1
+O002532,Transferencia,1
+O002533,Tarjeta de crédito,10
+O002534,Transferencia,1
+O002535,Tarjeta de débito,1
+O002536,Tarjeta de débito,1
+O002537,PayPal,1
+O002538,Tarjeta de débito,1
+O002539,PayPal,1
+O002540,PayPal,1
+O002541,Transferencia,1
+O002542,PayPal,1
+O002543,PayPal,1
+O002544,Tarjeta de débito,1
+O002545,Tarjeta de crédito,8
+O002546,Tarjeta de crédito,3
+O002547,PayPal,1
+O002548,Tarjeta de crédito,8
+O002549,Tarjeta de débito,1
+O002550,Transferencia,1
+O002551,Tarjeta de débito,1
+O002552,Transferencia,1
+O002553,Tarjeta de débito,1
+O002554,Tarjeta de crédito,11
+O002555,Tarjeta de crédito,3
+O002556,Transferencia,1
+O002557,Tarjeta de débito,1
+O002558,PayPal,1
+O002559,Tarjeta de crédito,8
+O002560,Tarjeta de crédito,3
+O002561,Tarjeta de débito,1
+O002562,PayPal,1
+O002563,PayPal,1
+O002564,Tarjeta de crédito,3
+O002565,Tarjeta de débito,1
+O002566,Tarjeta de crédito,10
+O002567,PayPal,1
+O002568,Tarjeta de débito,1
+O002569,PayPal,1
+O002570,Transferencia,1
+O002571,Tarjeta de crédito,6
+O002572,Tarjeta de crédito,9
+O002573,Tarjeta de crédito,1
+O002574,Transferencia,1
+O002575,Tarjeta de crédito,4
+O002576,Transferencia,1
+O002577,Transferencia,1
+O002578,Transferencia,1
+O002579,Tarjeta de crédito,10
+O002580,Transferencia,1
+O002581,Tarjeta de débito,1
+O002582,Tarjeta de crédito,4
+O002583,Tarjeta de crédito,12
+O002584,Tarjeta de crédito,3
+O002585,PayPal,1
+O002586,Transferencia,1
+O002587,Tarjeta de crédito,5
+O002588,PayPal,1
+O002589,PayPal,1
+O002590,Tarjeta de débito,1
+O002591,Tarjeta de crédito,1
+O002592,Transferencia,1
+O002593,Tarjeta de débito,1
+O002594,Tarjeta de crédito,6
+O002595,Transferencia,1
+O002596,PayPal,1
+O002597,Tarjeta de crédito,1
+O002598,Tarjeta de crédito,7
+O002599,Transferencia,1
+O002600,Tarjeta de crédito,11
+O002601,Tarjeta de crédito,10
+O002602,Tarjeta de crédito,6
+O002603,Tarjeta de crédito,9
+O002604,Transferencia,1
+O002605,PayPal,1
+O002606,Tarjeta de débito,1
+O002607,PayPal,1
+O002608,PayPal,1
+O002609,PayPal,1
+O002610,Tarjeta de crédito,2
+O002611,PayPal,1
+O002612,Tarjeta de crédito,8
+O002613,Tarjeta de crédito,6
+O002614,Tarjeta de crédito,10
+O002615,PayPal,1
+O002616,Tarjeta de débito,1
+O002617,Tarjeta de débito,1
+O002618,Tarjeta de débito,1
+O002619,Tarjeta de crédito,11
+O002620,Transferencia,1
+O002621,Tarjeta de débito,1
+O002622,PayPal,1
+O002623,Tarjeta de crédito,10
+O002624,Tarjeta de crédito,9
+O002625,Tarjeta de débito,1
+O002626,Transferencia,1
+O002627,Transferencia,1
+O002628,PayPal,1
+O002629,Transferencia,1
+O002630,PayPal,1
+O002631,Tarjeta de débito,1
+O002632,Tarjeta de débito,1
+O002633,PayPal,1
+O002634,Tarjeta de crédito,11
+O002635,Tarjeta de crédito,2
+O002636,Transferencia,1
+O002637,Tarjeta de crédito,10
+O002638,PayPal,1
+O002639,Tarjeta de débito,1
+O002640,Transferencia,1
+O002641,Tarjeta de débito,1
+O002642,PayPal,1
+O002643,Transferencia,1
+O002644,Tarjeta de débito,1
+O002645,Transferencia,1
+O002646,PayPal,1
+O002647,Transferencia,1
+O002648,Tarjeta de débito,1
+O002649,Tarjeta de débito,1
+O002650,PayPal,1
+O002651,Transferencia,1
+O002652,Tarjeta de débito,1
+O002653,Transferencia,1
+O002654,Tarjeta de débito,1
+O002655,Tarjeta de crédito,12
+O002656,PayPal,1
+O002657,Transferencia,1
+O002658,Tarjeta de débito,1
+O002659,Tarjeta de crédito,10
+O002660,Transferencia,1
+O002661,PayPal,1
+O002662,PayPal,1
+O002663,Transferencia,1
+O002664,Tarjeta de débito,1
+O002665,Tarjeta de débito,1
+O002666,PayPal,1
+O002667,PayPal,1
+O002668,PayPal,1
+O002669,PayPal,1
+O002670,PayPal,1
+O002671,Tarjeta de débito,1
+O002672,Tarjeta de crédito,9
+O002673,Tarjeta de crédito,6
+O002674,Transferencia,1
+O002675,Tarjeta de crédito,12
+O002676,Transferencia,1
+O002677,Tarjeta de crédito,6
+O002678,Tarjeta de débito,1
+O002679,Tarjeta de débito,1
+O002680,Tarjeta de crédito,12
+O002681,PayPal,1
+O002682,Tarjeta de crédito,11
+O002683,Tarjeta de débito,1
+O002684,Transferencia,1
+O002685,Transferencia,1
+O002686,Tarjeta de crédito,9
+O002687,Tarjeta de crédito,8
+O002688,Tarjeta de crédito,7
+O002689,Tarjeta de débito,1
+O002690,Tarjeta de débito,1
+O002691,Transferencia,1
+O002692,Transferencia,1
+O002693,PayPal,1
+O002694,Transferencia,1
+O002695,Transferencia,1
+O002696,Transferencia,1
+O002697,Transferencia,1
+O002698,PayPal,1
+O002699,PayPal,1
+O002700,Transferencia,1
+O002701,PayPal,1
+O002702,Tarjeta de crédito,5
+O002703,Tarjeta de débito,1
+O002704,PayPal,1
+O002705,Tarjeta de crédito,12
+O002706,Tarjeta de crédito,12
+O002707,Tarjeta de crédito,9
+O002708,Tarjeta de débito,1
+O002709,Tarjeta de débito,1
+O002710,Transferencia,1
+O002711,Tarjeta de débito,1
+O002712,Tarjeta de crédito,9
+O002713,Transferencia,1
+O002714,Tarjeta de crédito,4
+O002715,Tarjeta de crédito,7
+O002716,Tarjeta de crédito,2
+O002717,Tarjeta de débito,1
+O002718,Transferencia,1
+O002719,PayPal,1
+O002720,PayPal,1
+O002721,Transferencia,1
+O002722,Transferencia,1
+O002723,Tarjeta de débito,1
+O002724,PayPal,1
+O002725,Tarjeta de débito,1
+O002726,Tarjeta de débito,1
+O002727,PayPal,1
+O002728,Tarjeta de crédito,9
+O002729,Tarjeta de débito,1
+O002730,Transferencia,1
+O002731,Tarjeta de crédito,8
+O002732,PayPal,1
+O002733,Transferencia,1
+O002734,Tarjeta de débito,1
+O002735,Tarjeta de débito,1
+O002736,Tarjeta de crédito,2
+O002737,Tarjeta de crédito,3
+O002738,Tarjeta de débito,1
+O002739,Tarjeta de débito,1
+O002740,Transferencia,1
+O002741,Tarjeta de crédito,7
+O002742,PayPal,1
+O002743,Tarjeta de débito,1
+O002744,PayPal,1
+O002745,PayPal,1
+O002746,Transferencia,1
+O002747,Transferencia,1
+O002748,Tarjeta de crédito,1
+O002749,Tarjeta de crédito,9
+O002750,Transferencia,1
+O002751,Tarjeta de débito,1
+O002752,PayPal,1
+O002753,PayPal,1
+O002754,Tarjeta de débito,1
+O002755,Tarjeta de débito,1
+O002756,Tarjeta de débito,1
+O002757,Tarjeta de crédito,3
+O002758,PayPal,1
+O002759,Tarjeta de débito,1
+O002760,Tarjeta de débito,1
+O002761,Tarjeta de crédito,6
+O002762,Tarjeta de débito,1
+O002763,PayPal,1
+O002764,Transferencia,1
+O002765,PayPal,1
+O002766,Tarjeta de débito,1
+O002767,Tarjeta de débito,1
+O002768,PayPal,1
+O002769,Transferencia,1
+O002770,Transferencia,1
+O002771,Tarjeta de débito,1
+O002772,Tarjeta de débito,1
+O002773,PayPal,1
+O002774,Tarjeta de crédito,10
+O002775,Transferencia,1
+O002776,PayPal,1
+O002777,Tarjeta de crédito,12
+O002778,Tarjeta de débito,1
+O002779,Tarjeta de crédito,6
+O002780,Tarjeta de débito,1
+O002781,Transferencia,1
+O002782,Transferencia,1
+O002783,Tarjeta de crédito,9
+O002784,Tarjeta de crédito,6
+O002785,PayPal,1
+O002786,Transferencia,1
+O002787,Tarjeta de débito,1
+O002788,Tarjeta de crédito,3
+O002789,Transferencia,1
+O002790,Tarjeta de crédito,5
+O002791,PayPal,1
+O002792,Transferencia,1
+O002793,Tarjeta de crédito,3
+O002794,PayPal,1
+O002795,Tarjeta de crédito,4
+O002796,Tarjeta de débito,1
+O002797,Tarjeta de débito,1
+O002798,PayPal,1
+O002799,PayPal,1
+O002800,Tarjeta de débito,1
+O002801,PayPal,1
+O002802,PayPal,1
+O002803,Transferencia,1
+O002804,Transferencia,1
+O002805,Tarjeta de débito,1
+O002806,Tarjeta de débito,1
+O002807,PayPal,1
+O002808,Tarjeta de débito,1
+O002809,Tarjeta de crédito,2
+O002810,Transferencia,1
+O002811,Tarjeta de crédito,6
+O002812,PayPal,1
+O002813,Transferencia,1
+O002814,Tarjeta de débito,1
+O002815,Tarjeta de débito,1
+O002816,Transferencia,1
+O002817,PayPal,1
+O002818,Transferencia,1
+O002819,Tarjeta de crédito,7
+O002820,Tarjeta de crédito,3
+O002821,Tarjeta de débito,1
+O002822,PayPal,1
+O002823,PayPal,1
+O002824,Transferencia,1
+O002825,Tarjeta de débito,1
+O002826,PayPal,1
+O002827,Tarjeta de débito,1
+O002828,Tarjeta de débito,1
+O002829,PayPal,1
+O002830,Tarjeta de débito,1
+O002831,Transferencia,1
+O002832,Transferencia,1
+O002833,Tarjeta de débito,1
+O002834,PayPal,1
+O002835,PayPal,1
+O002836,Tarjeta de débito,1
+O002837,PayPal,1
+O002838,Transferencia,1
+O002839,Tarjeta de débito,1
+O002840,Tarjeta de crédito,4
+O002841,Transferencia,1
+O002842,PayPal,1
+O002843,Tarjeta de crédito,5
+O002844,Tarjeta de crédito,8
+O002845,Tarjeta de crédito,11
+O002846,Transferencia,1
+O002847,Transferencia,1
+O002848,Tarjeta de crédito,10
+O002849,PayPal,1
+O002850,Transferencia,1
+O002851,Tarjeta de crédito,6
+O002852,Transferencia,1
+O002853,Tarjeta de crédito,8
+O002854,PayPal,1
+O002855,PayPal,1
+O002856,PayPal,1
+O002857,Transferencia,1
+O002858,PayPal,1
+O002859,Tarjeta de crédito,6
+O002860,Transferencia,1
+O002861,Tarjeta de crédito,3
+O002862,Transferencia,1
+O002863,Tarjeta de débito,1
+O002864,Tarjeta de crédito,3
+O002865,Tarjeta de crédito,6
+O002866,Tarjeta de débito,1
+O002867,Tarjeta de crédito,7
+O002868,PayPal,1
+O002869,Tarjeta de débito,1
+O002870,Transferencia,1
+O002871,Tarjeta de débito,1
+O002872,Transferencia,1
+O002873,PayPal,1
+O002874,Tarjeta de débito,1
+O002875,Tarjeta de débito,1
+O002876,PayPal,1
+O002877,Tarjeta de débito,1
+O002878,PayPal,1
+O002879,PayPal,1
+O002880,PayPal,1
+O002881,PayPal,1
+O002882,Transferencia,1
+O002883,Transferencia,1
+O002884,Tarjeta de crédito,11
+O002885,PayPal,1
+O002886,Transferencia,1
+O002887,Tarjeta de débito,1
+O002888,Tarjeta de crédito,5
+O002889,Transferencia,1
+O002890,Transferencia,1
+O002891,PayPal,1
+O002892,Transferencia,1
+O002893,PayPal,1
+O002894,PayPal,1
+O002895,PayPal,1
+O002896,Tarjeta de crédito,9
+O002897,Tarjeta de crédito,7
+O002898,Tarjeta de crédito,10
+O002899,Tarjeta de crédito,10
+O002900,Tarjeta de débito,1
+O002901,Transferencia,1
+O002902,PayPal,1
+O002903,Tarjeta de débito,1
+O002904,Tarjeta de crédito,4
+O002905,Transferencia,1
+O002906,Tarjeta de crédito,10
+O002907,Tarjeta de crédito,1
+O002908,Transferencia,1
+O002909,Tarjeta de crédito,12
+O002910,Transferencia,1
+O002911,Transferencia,1
+O002912,Transferencia,1
+O002913,PayPal,1
+O002914,Tarjeta de débito,1
+O002915,Tarjeta de débito,1
+O002916,PayPal,1
+O002917,Tarjeta de crédito,8
+O002918,Transferencia,1
+O002919,PayPal,1
+O002920,Tarjeta de débito,1
+O002921,PayPal,1
+O002922,PayPal,1
+O002923,Tarjeta de débito,1
+O002924,PayPal,1
+O002925,Tarjeta de débito,1
+O002926,PayPal,1
+O002927,Transferencia,1
+O002928,Tarjeta de débito,1
+O002929,Transferencia,1
+O002930,Tarjeta de débito,1
+O002931,PayPal,1
+O002932,Tarjeta de débito,1
+O002933,Tarjeta de crédito,11
+O002934,Transferencia,1
+O002935,Tarjeta de débito,1
+O002936,Tarjeta de crédito,7
+O002937,Tarjeta de crédito,5
+O002938,Transferencia,1
+O002939,Tarjeta de débito,1
+O002940,Transferencia,1
+O002941,PayPal,1
+O002942,Tarjeta de crédito,3
+O002943,Tarjeta de débito,1
+O002944,PayPal,1
+O002945,Transferencia,1
+O002946,Tarjeta de crédito,8
+O002947,Tarjeta de débito,1
+O002948,Transferencia,1
+O002949,Transferencia,1
+O002950,Transferencia,1
+O002951,Transferencia,1
+O002952,PayPal,1
+O002953,PayPal,1
+O002954,PayPal,1
+O002955,PayPal,1
+O002956,Transferencia,1
+O002957,Tarjeta de débito,1
+O002958,Tarjeta de débito,1
+O002959,Transferencia,1
+O002960,PayPal,1
+O002961,Tarjeta de débito,1
+O002962,Tarjeta de débito,1
+O002963,Tarjeta de débito,1
+O002964,Transferencia,1
+O002965,PayPal,1
+O002966,PayPal,1
+O002967,Transferencia,1
+O002968,PayPal,1
+O002969,Tarjeta de crédito,12
+O002970,PayPal,1
+O002971,Transferencia,1
+O002972,Tarjeta de débito,1
+O002973,Transferencia,1
+O002974,Tarjeta de débito,1
+O002975,Transferencia,1
+O002976,Transferencia,1
+O002977,Transferencia,1
+O002978,Tarjeta de crédito,11
+O002979,Transferencia,1
+O002980,Tarjeta de crédito,6
+O002981,Tarjeta de débito,1
+O002982,Tarjeta de débito,1
+O002983,PayPal,1
+O002984,Tarjeta de crédito,12
+O002985,Tarjeta de débito,1
+O002986,Tarjeta de débito,1
+O002987,PayPal,1
+O002988,Tarjeta de débito,1
+O002989,Transferencia,1
+O002990,Tarjeta de crédito,9
+O002991,Tarjeta de crédito,9
+O002992,PayPal,1
+O002993,Tarjeta de crédito,10
+O002994,Tarjeta de crédito,9
+O002995,Transferencia,1
+O002996,Transferencia,1
+O002997,Tarjeta de débito,1
+O002998,PayPal,1
+O002999,Tarjeta de crédito,7
+O003000,Tarjeta de crédito,1
+O003001,Tarjeta de débito,1
+O003002,PayPal,1
+O003003,PayPal,1
+O003004,Tarjeta de débito,1
+O003005,Tarjeta de crédito,3
+O003006,Tarjeta de débito,1
+O003007,Tarjeta de débito,1
+O003008,Tarjeta de crédito,3
+O003009,Tarjeta de débito,1
+O003010,Tarjeta de débito,1
+O003011,Tarjeta de crédito,2
+O003012,Tarjeta de crédito,3
+O003013,PayPal,1
+O003014,Tarjeta de crédito,9
+O003015,Tarjeta de crédito,8
+O003016,Transferencia,1
+O003017,PayPal,1
+O003018,PayPal,1
+O003019,Transferencia,1
+O003020,PayPal,1
+O003021,Tarjeta de débito,1
+O003022,Tarjeta de débito,1
+O003023,Transferencia,1
+O003024,Tarjeta de débito,1
+O003025,Tarjeta de débito,1
+O003026,Tarjeta de débito,1
+O003027,Transferencia,1
+O003028,PayPal,1
+O003029,Tarjeta de crédito,6
+O003030,Tarjeta de crédito,12
+O003031,Transferencia,1
+O003032,Tarjeta de crédito,6
+O003033,Tarjeta de crédito,2
+O003034,Tarjeta de débito,1
+O003035,Transferencia,1
+O003036,PayPal,1
+O003037,Transferencia,1
+O003038,Tarjeta de débito,1
+O003039,Tarjeta de crédito,12
+O003040,Transferencia,1
+O003041,Tarjeta de débito,1
+O003042,PayPal,1
+O003043,PayPal,1
+O003044,PayPal,1
+O003045,Tarjeta de crédito,12
+O003046,Tarjeta de crédito,3
+O003047,Tarjeta de débito,1
+O003048,Transferencia,1
+O003049,Transferencia,1
+O003050,Transferencia,1
+O003051,PayPal,1
+O003052,PayPal,1
+O003053,PayPal,1
+O003054,Tarjeta de crédito,9
+O003055,Transferencia,1
+O003056,PayPal,1
+O003057,Transferencia,1
+O003058,Transferencia,1
+O003059,Tarjeta de débito,1
+O003060,PayPal,1
+O003061,Tarjeta de crédito,9
+O003062,Tarjeta de débito,1
+O003063,Tarjeta de débito,1
+O003064,Transferencia,1
+O003065,Transferencia,1
+O003066,Transferencia,1
+O003067,Tarjeta de crédito,2
+O003068,PayPal,1
+O003069,Tarjeta de crédito,1
+O003070,Tarjeta de débito,1
+O003071,Tarjeta de débito,1
+O003072,Tarjeta de débito,1
+O003073,Tarjeta de débito,1
+O003074,PayPal,1
+O003075,PayPal,1
+O003076,Transferencia,1
+O003077,PayPal,1
+O003078,Transferencia,1
+O003079,PayPal,1
+O003080,Tarjeta de crédito,11
+O003081,Transferencia,1
+O003082,Tarjeta de crédito,12
+O003083,Transferencia,1
+O003084,PayPal,1
+O003085,Transferencia,1
+O003086,Tarjeta de crédito,12
+O003087,Transferencia,1
+O003088,Transferencia,1
+O003089,Tarjeta de crédito,10
+O003090,Tarjeta de débito,1
+O003091,Transferencia,1
+O003092,Transferencia,1
+O003093,Transferencia,1
+O003094,Tarjeta de débito,1
+O003095,PayPal,1
+O003096,Transferencia,1
+O003097,Transferencia,1
+O003098,PayPal,1
+O003099,Tarjeta de crédito,6
+O003100,Tarjeta de débito,1
+O003101,Tarjeta de débito,1
+O003102,Tarjeta de débito,1
+O003103,Tarjeta de crédito,11
+O003104,Tarjeta de débito,1
+O003105,PayPal,1
+O003106,Tarjeta de débito,1
+O003107,PayPal,1
+O003108,Transferencia,1
+O003109,Tarjeta de crédito,2
+O003110,PayPal,1
+O003111,PayPal,1
+O003112,Tarjeta de débito,1
+O003113,PayPal,1
+O003114,Tarjeta de débito,1
+O003115,Transferencia,1
+O003116,PayPal,1
+O003117,Transferencia,1
+O003118,Tarjeta de débito,1
+O003119,Transferencia,1
+O003120,Transferencia,1
+O003121,PayPal,1
+O003122,Tarjeta de débito,1
+O003123,Tarjeta de débito,1
+O003124,Transferencia,1
+O003125,PayPal,1
+O003126,Tarjeta de crédito,8
+O003127,Tarjeta de débito,1
+O003128,Transferencia,1
+O003129,Transferencia,1
+O003130,PayPal,1
+O003131,PayPal,1
+O003132,Transferencia,1
+O003133,Transferencia,1
+O003134,PayPal,1
+O003135,Transferencia,1
+O003136,PayPal,1
+O003137,Tarjeta de crédito,12
+O003138,Tarjeta de crédito,9
+O003139,Tarjeta de débito,1
+O003140,Transferencia,1
+O003141,Tarjeta de crédito,2
+O003142,Transferencia,1
+O003143,Tarjeta de débito,1
+O003144,PayPal,1
+O003145,PayPal,1
+O003146,Tarjeta de débito,1
+O003147,Tarjeta de crédito,6
+O003148,Tarjeta de crédito,9
+O003149,PayPal,1
+O003150,Tarjeta de crédito,9
+O003151,PayPal,1
+O003152,PayPal,1
+O003153,Tarjeta de débito,1
+O003154,Tarjeta de crédito,11
+O003155,Tarjeta de débito,1
+O003156,Transferencia,1
+O003157,Tarjeta de crédito,9
+O003158,PayPal,1
+O003159,Tarjeta de débito,1
+O003160,Tarjeta de débito,1
+O003161,Transferencia,1
+O003162,Tarjeta de crédito,6
+O003163,Tarjeta de débito,1
+O003164,Tarjeta de crédito,8
+O003165,Tarjeta de crédito,11
+O003166,Transferencia,1
+O003167,Tarjeta de débito,1
+O003168,Transferencia,1
+O003169,Transferencia,1
+O003170,Transferencia,1
+O003171,Tarjeta de crédito,9
+O003172,Tarjeta de crédito,5
+O003173,Tarjeta de crédito,9
+O003174,PayPal,1
+O003175,Transferencia,1
+O003176,Tarjeta de crédito,4
+O003177,Tarjeta de débito,1
+O003178,Tarjeta de crédito,12
+O003179,Tarjeta de crédito,1
+O003180,Tarjeta de crédito,4
+O003181,PayPal,1
+O003182,Tarjeta de débito,1
+O003183,PayPal,1
+O003184,PayPal,1
+O003185,Transferencia,1
+O003186,Tarjeta de crédito,11
+O003187,Tarjeta de débito,1
+O003188,Tarjeta de crédito,2
+O003189,Tarjeta de débito,1
+O003190,Transferencia,1
+O003191,PayPal,1
+O003192,Transferencia,1
+O003193,Transferencia,1
+O003194,Tarjeta de crédito,8
+O003195,Transferencia,1
+O003196,Tarjeta de crédito,4
+O003197,Tarjeta de débito,1
+O003198,Tarjeta de débito,1
+O003199,Tarjeta de crédito,10
+O003200,PayPal,1
+O003201,Tarjeta de débito,1
+O003202,Transferencia,1
+O003203,Tarjeta de crédito,4
+O003204,PayPal,1
+O003205,PayPal,1
+O003206,PayPal,1
+O003207,Tarjeta de crédito,7
+O003208,Tarjeta de débito,1
+O003209,Tarjeta de crédito,11
+O003210,Tarjeta de crédito,10
+O003211,Tarjeta de crédito,4
+O003212,Tarjeta de crédito,1
+O003213,Transferencia,1
+O003214,PayPal,1
+O003215,Tarjeta de débito,1
+O003216,PayPal,1
+O003217,Tarjeta de débito,1
+O003218,PayPal,1
+O003219,Transferencia,1
+O003220,PayPal,1
+O003221,Transferencia,1
+O003222,Transferencia,1
+O003223,Transferencia,1
+O003224,Tarjeta de débito,1
+O003225,Tarjeta de débito,1
+O003226,PayPal,1
+O003227,PayPal,1
+O003228,Transferencia,1
+O003229,Transferencia,1
+O003230,Tarjeta de débito,1
+O003231,Tarjeta de débito,1
+O003232,Tarjeta de crédito,12
+O003233,Tarjeta de débito,1
+O003234,Tarjeta de débito,1
+O003235,PayPal,1
+O003236,PayPal,1
+O003237,Tarjeta de crédito,2
+O003238,Tarjeta de crédito,1
+O003239,Tarjeta de débito,1
+O003240,Tarjeta de crédito,6
+O003241,PayPal,1
+O003242,Tarjeta de crédito,9
+O003243,Transferencia,1
+O003244,Transferencia,1
+O003245,Transferencia,1
+O003246,Tarjeta de débito,1
+O003247,Transferencia,1
+O003248,PayPal,1
+O003249,Tarjeta de crédito,8
+O003250,Tarjeta de crédito,3
+O003251,Transferencia,1
+O003252,Tarjeta de débito,1
+O003253,PayPal,1
+O003254,Tarjeta de débito,1
+O003255,PayPal,1
+O003256,PayPal,1
+O003257,Tarjeta de débito,1
+O003258,PayPal,1
+O003259,Transferencia,1
+O003260,Tarjeta de crédito,3
+O003261,Tarjeta de crédito,5
+O003262,Tarjeta de crédito,12
+O003263,PayPal,1
+O003264,PayPal,1
+O003265,PayPal,1
+O003266,Tarjeta de crédito,11
+O003267,Tarjeta de débito,1
+O003268,Tarjeta de crédito,3
+O003269,Tarjeta de débito,1
+O003270,Tarjeta de crédito,12
+O003271,PayPal,1
+O003272,Transferencia,1
+O003273,Tarjeta de crédito,1
+O003274,Tarjeta de crédito,3
+O003275,Tarjeta de crédito,1
+O003276,Tarjeta de crédito,7
+O003277,Transferencia,1
+O003278,Tarjeta de débito,1
+O003279,Tarjeta de crédito,8
+O003280,Tarjeta de crédito,3
+O003281,Tarjeta de débito,1
+O003282,Tarjeta de crédito,4
+O003283,Tarjeta de débito,1
+O003284,Transferencia,1
+O003285,PayPal,1
+O003286,PayPal,1
+O003287,Tarjeta de crédito,8
+O003288,Transferencia,1
+O003289,Transferencia,1
+O003290,Tarjeta de crédito,6
+O003291,Tarjeta de crédito,10
+O003292,PayPal,1
+O003293,PayPal,1
+O003294,Tarjeta de débito,1
+O003295,PayPal,1
+O003296,Transferencia,1
+O003297,Transferencia,1
+O003298,Tarjeta de débito,1
+O003299,Tarjeta de débito,1
+O003300,Tarjeta de débito,1
+O003301,Transferencia,1
+O003302,Tarjeta de crédito,8
+O003303,Tarjeta de débito,1
+O003304,Transferencia,1
+O003305,Tarjeta de crédito,6
+O003306,PayPal,1
+O003307,Transferencia,1
+O003308,Tarjeta de crédito,5
+O003309,PayPal,1
+O003310,PayPal,1
+O003311,Tarjeta de débito,1
+O003312,Tarjeta de crédito,8
+O003313,PayPal,1
+O003314,Transferencia,1
+O003315,PayPal,1
+O003316,Tarjeta de débito,1
+O003317,Transferencia,1
+O003318,Tarjeta de crédito,7
+O003319,Tarjeta de crédito,9
+O003320,Tarjeta de crédito,8
+O003321,PayPal,1
+O003322,Tarjeta de débito,1
+O003323,PayPal,1
+O003324,Tarjeta de débito,1
+O003325,Tarjeta de débito,1
+O003326,Tarjeta de crédito,5
+O003327,Tarjeta de débito,1
+O003328,Tarjeta de crédito,5
+O003329,Tarjeta de crédito,1
+O003330,Transferencia,1
+O003331,PayPal,1
+O003332,Transferencia,1
+O003333,Transferencia,1
+O003334,PayPal,1
+O003335,Tarjeta de crédito,6
+O003336,Transferencia,1
+O003337,Transferencia,1
+O003338,Tarjeta de crédito,11
+O003339,Tarjeta de crédito,9
+O003340,Tarjeta de débito,1
+O003341,Tarjeta de crédito,9
+O003342,Tarjeta de crédito,6
+O003343,PayPal,1
+O003344,Transferencia,1
+O003345,Transferencia,1
+O003346,Tarjeta de débito,1
+O003347,Tarjeta de débito,1
+O003348,Tarjeta de crédito,1
+O003349,Tarjeta de crédito,4
+O003350,PayPal,1
+O003351,Transferencia,1
+O003352,PayPal,1
+O003353,Transferencia,1
+O003354,Tarjeta de débito,1
+O003355,Tarjeta de débito,1
+O003356,PayPal,1
+O003357,Tarjeta de débito,1
+O003358,PayPal,1
+O003359,Transferencia,1
+O003360,PayPal,1
+O003361,Transferencia,1
+O003362,PayPal,1
+O003363,Transferencia,1
+O003364,Tarjeta de crédito,7
+O003365,Tarjeta de débito,1
+O003366,PayPal,1
+O003367,PayPal,1
+O003368,PayPal,1
+O003369,PayPal,1
+O003370,Tarjeta de débito,1
+O003371,Transferencia,1
+O003372,Tarjeta de débito,1
+O003373,Tarjeta de débito,1
+O003374,Tarjeta de crédito,1
+O003375,Tarjeta de crédito,1
+O003376,Transferencia,1
+O003377,PayPal,1
+O003378,Transferencia,1
+O003379,Tarjeta de crédito,5
+O003380,PayPal,1
+O003381,Tarjeta de débito,1
+O003382,Tarjeta de crédito,8
+O003383,Tarjeta de crédito,12
+O003384,PayPal,1
+O003385,Transferencia,1
+O003386,Tarjeta de débito,1
+O003387,Transferencia,1
+O003388,Transferencia,1
+O003389,Tarjeta de crédito,11
+O003390,PayPal,1
+O003391,PayPal,1
+O003392,Transferencia,1
+O003393,Tarjeta de crédito,10
+O003394,Tarjeta de crédito,5
+O003395,Transferencia,1
+O003396,PayPal,1
+O003397,PayPal,1
+O003398,Transferencia,1
+O003399,Transferencia,1
+O003400,PayPal,1
+O003401,Transferencia,1
+O003402,PayPal,1
+O003403,Tarjeta de débito,1
+O003404,Transferencia,1
+O003405,Tarjeta de crédito,9
+O003406,Tarjeta de crédito,10
+O003407,Tarjeta de débito,1
+O003408,PayPal,1
+O003409,Transferencia,1
+O003410,Transferencia,1
+O003411,Transferencia,1
+O003412,Tarjeta de crédito,9
+O003413,Tarjeta de débito,1
+O003414,PayPal,1
+O003415,Tarjeta de débito,1
+O003416,Tarjeta de crédito,1
+O003417,Tarjeta de crédito,4
+O003418,Tarjeta de crédito,5
+O003419,Transferencia,1
+O003420,PayPal,1
+O003421,PayPal,1
+O003422,Tarjeta de crédito,11
+O003423,Tarjeta de crédito,5
+O003424,PayPal,1
+O003425,Tarjeta de crédito,8
+O003426,Tarjeta de débito,1
+O003427,Transferencia,1
+O003428,Tarjeta de crédito,6
+O003429,Tarjeta de débito,1
+O003430,Tarjeta de crédito,9
+O003431,PayPal,1
+O003432,PayPal,1
+O003433,Transferencia,1
+O003434,Tarjeta de débito,1
+O003435,PayPal,1
+O003436,Tarjeta de débito,1
+O003437,Tarjeta de débito,1
+O003438,PayPal,1
+O003439,Tarjeta de crédito,2
+O003440,Tarjeta de crédito,8
+O003441,PayPal,1
+O003442,Transferencia,1
+O003443,Transferencia,1
+O003444,PayPal,1
+O003445,Tarjeta de crédito,1
+O003446,Tarjeta de débito,1
+O003447,PayPal,1
+O003448,Tarjeta de débito,1
+O003449,Tarjeta de débito,1
+O003450,Transferencia,1
+O003451,Tarjeta de crédito,9
+O003452,PayPal,1
+O003453,Tarjeta de débito,1
+O003454,Tarjeta de débito,1
+O003455,Tarjeta de débito,1
+O003456,Tarjeta de crédito,3
+O003457,Tarjeta de crédito,8
+O003458,Tarjeta de débito,1
+O003459,PayPal,1
+O003460,Tarjeta de crédito,7
+O003461,Transferencia,1
+O003462,PayPal,1
+O003463,Tarjeta de débito,1
+O003464,Tarjeta de débito,1
+O003465,PayPal,1
+O003466,Transferencia,1
+O003467,Tarjeta de crédito,12
+O003468,PayPal,1
+O003469,PayPal,1
+O003470,PayPal,1
+O003471,Tarjeta de débito,1
+O003472,PayPal,1
+O003473,PayPal,1
+O003474,Tarjeta de débito,1
+O003475,Tarjeta de débito,1
+O003476,Transferencia,1
+O003477,Tarjeta de débito,1
+O003478,Tarjeta de débito,1
+O003479,PayPal,1
+O003480,Tarjeta de débito,1
+O003481,PayPal,1
+O003482,PayPal,1
+O003483,PayPal,1
+O003484,PayPal,1
+O003485,Tarjeta de crédito,5
+O003486,Transferencia,1
+O003487,Tarjeta de débito,1
+O003488,PayPal,1
+O003489,Transferencia,1
+O003490,Transferencia,1
+O003491,Tarjeta de crédito,6
+O003492,Tarjeta de crédito,5
+O003493,PayPal,1
+O003494,Transferencia,1
+O003495,Tarjeta de crédito,1
+O003496,PayPal,1
+O003497,Tarjeta de débito,1
+O003498,Tarjeta de débito,1
+O003499,PayPal,1
+O003500,Tarjeta de débito,1
+O003501,Tarjeta de crédito,10
+O003502,Tarjeta de débito,1
+O003503,Tarjeta de débito,1
+O003504,Tarjeta de crédito,1
+O003505,Transferencia,1
+O003506,Tarjeta de crédito,7
+O003507,Transferencia,1
+O003508,PayPal,1
+O003509,Transferencia,1
+O003510,Transferencia,1
+O003511,Tarjeta de crédito,10
+O003512,PayPal,1
+O003513,PayPal,1
+O003514,Transferencia,1
+O003515,Tarjeta de débito,1
+O003516,Tarjeta de crédito,7
+O003517,Transferencia,1
+O003518,Transferencia,1
+O003519,PayPal,1
+O003520,Tarjeta de débito,1
+O003521,PayPal,1
+O003522,Tarjeta de crédito,12
+O003523,Tarjeta de crédito,5
+O003524,PayPal,1
+O003525,PayPal,1
+O003526,PayPal,1
+O003527,Tarjeta de débito,1
+O003528,Tarjeta de crédito,10
+O003529,Transferencia,1
+O003530,Tarjeta de crédito,2
+O003531,Tarjeta de débito,1
+O003532,PayPal,1
+O003533,Tarjeta de débito,1
+O003534,Tarjeta de débito,1
+O003535,Tarjeta de crédito,7
+O003536,Transferencia,1
+O003537,PayPal,1
+O003538,Tarjeta de débito,1
+O003539,Tarjeta de débito,1
+O003540,Tarjeta de crédito,2
+O003541,Transferencia,1
+O003542,Transferencia,1
+O003543,Transferencia,1
+O003544,Transferencia,1
+O003545,Tarjeta de crédito,10
+O003546,Transferencia,1
+O003547,PayPal,1
+O003548,Tarjeta de débito,1
+O003549,PayPal,1
+O003550,Transferencia,1
+O003551,Transferencia,1
+O003552,Transferencia,1
+O003553,Tarjeta de débito,1
+O003554,PayPal,1
+O003555,Transferencia,1
+O003556,PayPal,1
+O003557,Tarjeta de crédito,8
+O003558,PayPal,1
+O003559,Tarjeta de débito,1
+O003560,Tarjeta de débito,1
+O003561,Tarjeta de débito,1
+O003562,PayPal,1
+O003563,PayPal,1
+O003564,Tarjeta de crédito,8
+O003565,Tarjeta de crédito,3
+O003566,PayPal,1
+O003567,Tarjeta de crédito,10
+O003568,Tarjeta de crédito,5
+O003569,Tarjeta de débito,1
+O003570,Transferencia,1
+O003571,Tarjeta de débito,1
+O003572,Transferencia,1
+O003573,Transferencia,1
+O003574,Tarjeta de crédito,2
+O003575,Transferencia,1
+O003576,PayPal,1
+O003577,PayPal,1
+O003578,Transferencia,1
+O003579,Transferencia,1
+O003580,Tarjeta de crédito,3
+O003581,Transferencia,1
+O003582,PayPal,1
+O003583,PayPal,1
+O003584,Transferencia,1
+O003585,Tarjeta de crédito,7
+O003586,Tarjeta de crédito,6
+O003587,Transferencia,1
+O003588,Transferencia,1
+O003589,Tarjeta de débito,1
+O003590,Transferencia,1
+O003591,Tarjeta de crédito,2
+O003592,Transferencia,1
+O003593,Tarjeta de crédito,1
+O003594,PayPal,1
+O003595,Tarjeta de crédito,3
+O003596,Tarjeta de crédito,1
+O003597,Tarjeta de débito,1
+O003598,PayPal,1
+O003599,PayPal,1
+O003600,PayPal,1
+O003601,Tarjeta de crédito,8
+O003602,Tarjeta de crédito,7
+O003603,Transferencia,1
+O003604,Transferencia,1
+O003605,Tarjeta de débito,1
+O003606,Tarjeta de débito,1
+O003607,Tarjeta de crédito,10
+O003608,Tarjeta de crédito,8
+O003609,Tarjeta de crédito,5
+O003610,Tarjeta de débito,1
+O003611,PayPal,1
+O003612,Tarjeta de crédito,6
+O003613,PayPal,1
+O003614,Tarjeta de crédito,5
+O003615,Transferencia,1
+O003616,Transferencia,1
+O003617,Tarjeta de crédito,3
+O003618,PayPal,1
+O003619,Tarjeta de débito,1
+O003620,Transferencia,1
+O003621,PayPal,1
+O003622,Tarjeta de crédito,2
+O003623,PayPal,1
+O003624,Tarjeta de débito,1
+O003625,PayPal,1
+O003626,Transferencia,1
+O003627,Transferencia,1
+O003628,Tarjeta de débito,1
+O003629,Tarjeta de débito,1
+O003630,Tarjeta de débito,1
+O003631,Transferencia,1
+O003632,Transferencia,1
+O003633,PayPal,1
+O003634,PayPal,1
+O003635,Tarjeta de débito,1
+O003636,PayPal,1
+O003637,Tarjeta de débito,1
+O003638,Transferencia,1
+O003639,Tarjeta de débito,1
+O003640,PayPal,1
+O003641,PayPal,1
+O003642,Tarjeta de débito,1
+O003643,Tarjeta de crédito,2
+O003644,Tarjeta de débito,1
+O003645,Tarjeta de débito,1
+O003646,PayPal,1
+O003647,Transferencia,1
+O003648,PayPal,1
+O003649,Tarjeta de crédito,6
+O003650,PayPal,1
+O003651,Tarjeta de crédito,2
+O003652,Tarjeta de débito,1
+O003653,PayPal,1
+O003654,Transferencia,1
+O003655,Tarjeta de débito,1
+O003656,Transferencia,1
+O003657,Tarjeta de débito,1
+O003658,PayPal,1
+O003659,Transferencia,1
+O003660,PayPal,1
+O003661,PayPal,1
+O003662,PayPal,1
+O003663,Tarjeta de crédito,10
+O003664,PayPal,1
+O003665,Tarjeta de crédito,11
+O003666,Transferencia,1
+O003667,PayPal,1
+O003668,Transferencia,1
+O003669,Transferencia,1
+O003670,PayPal,1
+O003671,PayPal,1
+O003672,PayPal,1
+O003673,Tarjeta de débito,1
+O003674,Tarjeta de crédito,2
+O003675,Tarjeta de débito,1
+O003676,Tarjeta de débito,1
+O003677,PayPal,1
+O003678,PayPal,1
+O003679,PayPal,1
+O003680,Tarjeta de crédito,3
+O003681,Tarjeta de crédito,2
+O003682,Tarjeta de crédito,5
+O003683,Tarjeta de débito,1
+O003684,Tarjeta de débito,1
+O003685,Tarjeta de crédito,11
+O003686,Tarjeta de débito,1
+O003687,Tarjeta de débito,1
+O003688,Tarjeta de débito,1
+O003689,Tarjeta de débito,1
+O003690,Tarjeta de débito,1
+O003691,PayPal,1
+O003692,Transferencia,1
+O003693,Tarjeta de crédito,2
+O003694,Tarjeta de débito,1
+O003695,Tarjeta de crédito,11
+O003696,Tarjeta de crédito,4
+O003697,Tarjeta de crédito,11
+O003698,Tarjeta de crédito,11
+O003699,Tarjeta de crédito,7
+O003700,Tarjeta de débito,1
+O003701,Tarjeta de crédito,6
+O003702,PayPal,1
+O003703,Tarjeta de débito,1
+O003704,Tarjeta de débito,1
+O003705,PayPal,1
+O003706,Transferencia,1
+O003707,Transferencia,1
+O003708,PayPal,1
+O003709,Tarjeta de débito,1
+O003710,Transferencia,1
+O003711,Transferencia,1
+O003712,Transferencia,1
+O003713,Transferencia,1
+O003714,Transferencia,1
+O003715,Tarjeta de débito,1
+O003716,PayPal,1
+O003717,PayPal,1
+O003718,Tarjeta de débito,1
+O003719,Tarjeta de débito,1
+O003720,PayPal,1
+O003721,Tarjeta de débito,1
+O003722,PayPal,1
+O003723,Tarjeta de débito,1
+O003724,PayPal,1
+O003725,Transferencia,1
+O003726,Tarjeta de crédito,6
+O003727,PayPal,1
+O003728,Tarjeta de crédito,2
+O003729,Tarjeta de crédito,4
+O003730,Tarjeta de crédito,11
+O003731,Tarjeta de débito,1
+O003732,Tarjeta de crédito,5
+O003733,Transferencia,1
+O003734,Transferencia,1
+O003735,Tarjeta de débito,1
+O003736,PayPal,1
+O003737,PayPal,1
+O003738,Tarjeta de crédito,8
+O003739,Tarjeta de crédito,2
+O003740,Tarjeta de crédito,7
+O003741,Tarjeta de débito,1
+O003742,Tarjeta de crédito,11
+O003743,PayPal,1
+O003744,Tarjeta de débito,1
+O003745,Tarjeta de débito,1
+O003746,Tarjeta de débito,1
+O003747,Transferencia,1
+O003748,Tarjeta de crédito,2
+O003749,PayPal,1
+O003750,Transferencia,1
+O003751,Tarjeta de débito,1
+O003752,Tarjeta de crédito,3
+O003753,Tarjeta de débito,1
+O003754,PayPal,1
+O003755,Tarjeta de débito,1
+O003756,PayPal,1
+O003757,Tarjeta de crédito,4
+O003758,Tarjeta de crédito,10
+O003759,Tarjeta de débito,1
+O003760,Tarjeta de crédito,9
+O003761,Tarjeta de débito,1
+O003762,Tarjeta de débito,1
+O003763,Tarjeta de crédito,9
+O003764,Tarjeta de crédito,6
+O003765,PayPal,1
+O003766,Tarjeta de crédito,7
+O003767,Tarjeta de crédito,9
+O003768,Tarjeta de crédito,7
+O003769,PayPal,1
+O003770,Tarjeta de crédito,1
+O003771,Tarjeta de crédito,12
+O003772,PayPal,1
+O003773,Tarjeta de crédito,2
+O003774,Transferencia,1
+O003775,Tarjeta de crédito,12
+O003776,Transferencia,1
+O003777,PayPal,1
+O003778,Tarjeta de débito,1
+O003779,Tarjeta de débito,1
+O003780,Tarjeta de crédito,6
+O003781,Transferencia,1
+O003782,Tarjeta de crédito,1
+O003783,PayPal,1
+O003784,PayPal,1
+O003785,Tarjeta de crédito,4
+O003786,PayPal,1
+O003787,PayPal,1
+O003788,Tarjeta de crédito,9
+O003789,Transferencia,1
+O003790,Tarjeta de débito,1
+O003791,Transferencia,1
+O003792,Tarjeta de débito,1
+O003793,PayPal,1
+O003794,Transferencia,1
+O003795,Tarjeta de crédito,5
+O003796,Transferencia,1
+O003797,Tarjeta de débito,1
+O003798,PayPal,1
+O003799,Tarjeta de crédito,3
+O003800,Tarjeta de débito,1
+O003801,Tarjeta de crédito,4
+O003802,Transferencia,1
+O003803,PayPal,1
+O003804,Tarjeta de crédito,7
+O003805,PayPal,1
+O003806,Transferencia,1
+O003807,PayPal,1
+O003808,PayPal,1
+O003809,Tarjeta de crédito,8
+O003810,Tarjeta de crédito,4
+O003811,Tarjeta de débito,1
+O003812,Tarjeta de débito,1
+O003813,PayPal,1
+O003814,Tarjeta de crédito,5
+O003815,Tarjeta de débito,1
+O003816,PayPal,1
+O003817,Tarjeta de débito,1
+O003818,Tarjeta de crédito,12
+O003819,Tarjeta de crédito,10
+O003820,Tarjeta de crédito,11
+O003821,Tarjeta de débito,1
+O003822,Transferencia,1
+O003823,Tarjeta de crédito,2
+O003824,Transferencia,1
+O003825,Tarjeta de débito,1
+O003826,Tarjeta de crédito,6
+O003827,Tarjeta de crédito,4
+O003828,Transferencia,1
+O003829,Tarjeta de crédito,12
+O003830,Transferencia,1
+O003831,Tarjeta de crédito,2
+O003832,PayPal,1
+O003833,PayPal,1
+O003834,Transferencia,1
+O003835,Transferencia,1
+O003836,Tarjeta de débito,1
+O003837,Tarjeta de débito,1
+O003838,Transferencia,1
+O003839,Tarjeta de crédito,2
+O003840,PayPal,1
+O003841,Transferencia,1
+O003842,Tarjeta de crédito,6
+O003843,Transferencia,1
+O003844,Tarjeta de crédito,2
+O003845,Tarjeta de crédito,4
+O003846,Tarjeta de débito,1
+O003847,Tarjeta de crédito,1
+O003848,PayPal,1
+O003849,Tarjeta de débito,1
+O003850,Transferencia,1
+O003851,Tarjeta de crédito,8
+O003852,Tarjeta de débito,1
+O003853,Tarjeta de crédito,4
+O003854,Transferencia,1
+O003855,Tarjeta de débito,1
+O003856,Tarjeta de débito,1
+O003857,PayPal,1
+O003858,Tarjeta de crédito,11
+O003859,Tarjeta de crédito,10
+O003860,PayPal,1
+O003861,PayPal,1
+O003862,Transferencia,1
+O003863,Transferencia,1
+O003864,Transferencia,1
+O003865,PayPal,1
+O003866,Transferencia,1
+O003867,Tarjeta de crédito,5
+O003868,PayPal,1
+O003869,Tarjeta de crédito,3
+O003870,Transferencia,1
+O003871,Tarjeta de crédito,9
+O003872,Transferencia,1
+O003873,Tarjeta de débito,1
+O003874,Tarjeta de débito,1
+O003875,PayPal,1
+O003876,Tarjeta de crédito,5
+O003877,Transferencia,1
+O003878,Transferencia,1
+O003879,Transferencia,1
+O003880,Transferencia,1
+O003881,Transferencia,1
+O003882,Tarjeta de débito,1
+O003883,Transferencia,1
+O003884,Tarjeta de débito,1
+O003885,PayPal,1
+O003886,Tarjeta de débito,1
+O003887,PayPal,1
+O003888,Tarjeta de débito,1
+O003889,Transferencia,1
+O003890,Transferencia,1
+O003891,Tarjeta de débito,1
+O003892,Transferencia,1
+O003893,PayPal,1
+O003894,Tarjeta de crédito,12
+O003895,Tarjeta de débito,1
+O003896,Transferencia,1
+O003897,PayPal,1
+O003898,PayPal,1
+O003899,Transferencia,1
+O003900,Tarjeta de crédito,12
+O003901,Tarjeta de débito,1
+O003902,Tarjeta de crédito,12
+O003903,Tarjeta de crédito,3
+O003904,Tarjeta de crédito,7
+O003905,Tarjeta de débito,1
+O003906,PayPal,1
+O003907,Transferencia,1
+O003908,Tarjeta de crédito,8
+O003909,Tarjeta de débito,1
+O003910,Tarjeta de débito,1
+O003911,Tarjeta de crédito,4
+O003912,Tarjeta de débito,1
+O003913,Transferencia,1
+O003914,Tarjeta de débito,1
+O003915,PayPal,1
+O003916,Tarjeta de débito,1
+O003917,PayPal,1
+O003918,Transferencia,1
+O003919,Transferencia,1
+O003920,Tarjeta de crédito,7
+O003921,Transferencia,1
+O003922,Tarjeta de crédito,3
+O003923,Tarjeta de débito,1
+O003924,Tarjeta de débito,1
+O003925,PayPal,1
+O003926,Tarjeta de débito,1
+O003927,Tarjeta de débito,1
+O003928,Tarjeta de débito,1
+O003929,Transferencia,1
+O003930,Tarjeta de crédito,7
+O003931,Tarjeta de crédito,6
+O003932,Tarjeta de débito,1
+O003933,Tarjeta de débito,1
+O003934,PayPal,1
+O003935,Transferencia,1
+O003936,Transferencia,1
+O003937,PayPal,1
+O003938,Tarjeta de débito,1
+O003939,Tarjeta de débito,1
+O003940,Tarjeta de crédito,9
+O003941,PayPal,1
+O003942,Tarjeta de débito,1
+O003943,Tarjeta de crédito,10
+O003944,Transferencia,1
+O003945,Tarjeta de débito,1
+O003946,Tarjeta de crédito,11
+O003947,PayPal,1
+O003948,Tarjeta de crédito,12
+O003949,Transferencia,1
+O003950,Tarjeta de débito,1
+O003951,Transferencia,1
+O003952,Tarjeta de crédito,12
+O003953,Transferencia,1
+O003954,Transferencia,1
+O003955,Tarjeta de débito,1
+O003956,PayPal,1
+O003957,Tarjeta de débito,1
+O003958,PayPal,1
+O003959,PayPal,1
+O003960,Transferencia,1
+O003961,Tarjeta de crédito,3
+O003962,PayPal,1
+O003963,Transferencia,1
+O003964,PayPal,1
+O003965,Tarjeta de débito,1
+O003966,Tarjeta de crédito,6
+O003967,PayPal,1
+O003968,Transferencia,1
+O003969,Tarjeta de débito,1
+O003970,Tarjeta de débito,1
+O003971,PayPal,1
+O003972,Tarjeta de crédito,9
+O003973,Transferencia,1
+O003974,Tarjeta de crédito,10
+O003975,PayPal,1
+O003976,PayPal,1
+O003977,Tarjeta de crédito,2
+O003978,Tarjeta de débito,1
+O003979,Tarjeta de crédito,2
+O003980,Tarjeta de crédito,6
+O003981,PayPal,1
+O003982,Tarjeta de débito,1
+O003983,Transferencia,1
+O003984,Transferencia,1
+O003985,PayPal,1
+O003986,Tarjeta de crédito,5
+O003987,PayPal,1
+O003988,Tarjeta de crédito,12
+O003989,Tarjeta de débito,1
+O003990,Tarjeta de débito,1
+O003991,PayPal,1
+O003992,Transferencia,1
+O003993,Tarjeta de débito,1
+O003994,PayPal,1
+O003995,PayPal,1
+O003996,PayPal,1
+O003997,PayPal,1
+O003998,Transferencia,1
+O003999,Tarjeta de crédito,1
+O004000,Tarjeta de débito,1
+O004001,Tarjeta de débito,1
+O004002,PayPal,1
+O004003,Tarjeta de crédito,6
+O004004,Tarjeta de débito,1
+O004005,Tarjeta de crédito,5
+O004006,Transferencia,1
+O004007,Tarjeta de débito,1
+O004008,Transferencia,1
+O004009,Tarjeta de crédito,3
+O004010,Tarjeta de débito,1
+O004011,Tarjeta de débito,1
+O004012,Tarjeta de crédito,12
+O004013,Tarjeta de débito,1
+O004014,Tarjeta de crédito,11
+O004015,Transferencia,1
+O004016,Tarjeta de débito,1
+O004017,Transferencia,1
+O004018,Transferencia,1
+O004019,Transferencia,1
+O004020,Transferencia,1
+O004021,PayPal,1
+O004022,Tarjeta de crédito,6
+O004023,Transferencia,1
+O004024,Tarjeta de crédito,7
+O004025,Tarjeta de débito,1
+O004026,Tarjeta de crédito,8
+O004027,Tarjeta de débito,1
+O004028,Tarjeta de débito,1
+O004029,Tarjeta de débito,1
+O004030,PayPal,1
+O004031,PayPal,1
+O004032,Tarjeta de débito,1
+O004033,PayPal,1
+O004034,Tarjeta de débito,1
+O004035,Transferencia,1
+O004036,Transferencia,1
+O004037,Tarjeta de débito,1
+O004038,PayPal,1
+O004039,Tarjeta de crédito,3
+O004040,Tarjeta de débito,1
+O004041,Tarjeta de débito,1
+O004042,Tarjeta de débito,1
+O004043,Tarjeta de débito,1
+O004044,Tarjeta de débito,1
+O004045,Tarjeta de crédito,3
+O004046,Tarjeta de crédito,9
+O004047,Tarjeta de crédito,5
+O004048,Transferencia,1
+O004049,PayPal,1
+O004050,Transferencia,1
+O004051,Tarjeta de débito,1
+O004052,PayPal,1
+O004053,Tarjeta de crédito,10
+O004054,PayPal,1
+O004055,Tarjeta de crédito,1
+O004056,Tarjeta de débito,1
+O004057,PayPal,1
+O004058,Tarjeta de débito,1
+O004059,Tarjeta de débito,1
+O004060,Transferencia,1
+O004061,Transferencia,1
+O004062,Tarjeta de crédito,3
+O004063,Tarjeta de débito,1
+O004064,Tarjeta de débito,1
+O004065,Transferencia,1
+O004066,Tarjeta de crédito,10
+O004067,Tarjeta de crédito,7
+O004068,Tarjeta de crédito,10
+O004069,Tarjeta de débito,1
+O004070,Transferencia,1
+O004071,Tarjeta de débito,1
+O004072,Tarjeta de débito,1
+O004073,Tarjeta de crédito,11
+O004074,PayPal,1
+O004075,PayPal,1
+O004076,PayPal,1
+O004077,Transferencia,1
+O004078,PayPal,1
+O004079,PayPal,1
+O004080,PayPal,1
+O004081,Tarjeta de crédito,4
+O004082,Transferencia,1
+O004083,Tarjeta de débito,1
+O004084,Transferencia,1
+O004085,PayPal,1
+O004086,PayPal,1
+O004087,Tarjeta de débito,1
+O004088,Transferencia,1
+O004089,Tarjeta de crédito,6
+O004090,Transferencia,1
+O004091,Tarjeta de crédito,8
+O004092,Transferencia,1
+O004093,Tarjeta de débito,1
+O004094,Tarjeta de crédito,6
+O004095,Tarjeta de crédito,4
+O004096,Tarjeta de crédito,1
+O004097,Transferencia,1
+O004098,Tarjeta de crédito,6
+O004099,PayPal,1
+O004100,Tarjeta de crédito,3
+O004101,Tarjeta de crédito,1
+O004102,Tarjeta de crédito,1
+O004103,Transferencia,1
+O004104,Transferencia,1
+O004105,Transferencia,1
+O004106,Tarjeta de crédito,9
+O004107,PayPal,1
+O004108,Tarjeta de crédito,6
+O004109,Tarjeta de crédito,4
+O004110,Transferencia,1
+O004111,Tarjeta de crédito,8
+O004112,Tarjeta de crédito,5
+O004113,PayPal,1
+O004114,Tarjeta de crédito,12
+O004115,Transferencia,1
+O004116,PayPal,1
+O004117,PayPal,1
+O004118,Tarjeta de crédito,6
+O004119,Transferencia,1
+O004120,Transferencia,1
+O004121,Tarjeta de crédito,9
+O004122,Transferencia,1
+O004123,Tarjeta de crédito,5
+O004124,PayPal,1
+O004125,Tarjeta de crédito,1
+O004126,Tarjeta de crédito,5
+O004127,PayPal,1
+O004128,Tarjeta de crédito,12
+O004129,Tarjeta de débito,1
+O004130,Tarjeta de débito,1
+O004131,Tarjeta de crédito,10
+O004132,Transferencia,1
+O004133,Tarjeta de débito,1
+O004134,Transferencia,1
+O004135,Tarjeta de crédito,7
+O004136,PayPal,1
+O004137,Transferencia,1
+O004138,PayPal,1
+O004139,PayPal,1
+O004140,Transferencia,1
+O004141,PayPal,1
+O004142,Tarjeta de débito,1
+O004143,Transferencia,1
+O004144,Transferencia,1
+O004145,Transferencia,1
+O004146,Tarjeta de crédito,11
+O004147,Tarjeta de débito,1
+O004148,Transferencia,1
+O004149,Transferencia,1
+O004150,PayPal,1
+O004151,Transferencia,1
+O004152,Tarjeta de débito,1
+O004153,PayPal,1
+O004154,PayPal,1
+O004155,Tarjeta de crédito,5
+O004156,Transferencia,1
+O004157,Tarjeta de débito,1
+O004158,Tarjeta de crédito,5
+O004159,Tarjeta de débito,1
+O004160,Transferencia,1
+O004161,Transferencia,1
+O004162,Tarjeta de crédito,10
+O004163,PayPal,1
+O004164,Transferencia,1
+O004165,Transferencia,1
+O004166,Tarjeta de débito,1
+O004167,Tarjeta de débito,1
+O004168,Tarjeta de crédito,8
+O004169,Transferencia,1
+O004170,Tarjeta de débito,1
+O004171,PayPal,1
+O004172,Transferencia,1
+O004173,PayPal,1
+O004174,Tarjeta de débito,1
+O004175,Tarjeta de débito,1
+O004176,Tarjeta de crédito,9
+O004177,Transferencia,1
+O004178,Transferencia,1
+O004179,Transferencia,1
+O004180,Tarjeta de crédito,7
+O004181,Tarjeta de crédito,2
+O004182,Tarjeta de débito,1
+O004183,Tarjeta de débito,1
+O004184,Tarjeta de crédito,4
+O004185,Transferencia,1
+O004186,Tarjeta de débito,1
+O004187,PayPal,1
+O004188,PayPal,1
+O004189,PayPal,1
+O004190,PayPal,1
+O004191,Tarjeta de crédito,7
+O004192,PayPal,1
+O004193,Transferencia,1
+O004194,Transferencia,1
+O004195,Tarjeta de débito,1
+O004196,Tarjeta de crédito,9
+O004197,Transferencia,1
+O004198,Tarjeta de crédito,8
+O004199,Tarjeta de débito,1
+O004200,Transferencia,1
+O004201,Tarjeta de débito,1
+O004202,PayPal,1
+O004203,PayPal,1
+O004204,Tarjeta de crédito,2
+O004205,Tarjeta de débito,1
+O004206,Transferencia,1
+O004207,Tarjeta de crédito,6
+O004208,Transferencia,1
+O004209,Tarjeta de crédito,4
+O004210,Transferencia,1
+O004211,PayPal,1
+O004212,Transferencia,1
+O004213,PayPal,1
+O004214,PayPal,1
+O004215,Transferencia,1
+O004216,Transferencia,1
+O004217,Transferencia,1
+O004218,PayPal,1
+O004219,Tarjeta de crédito,10
+O004220,Tarjeta de crédito,7
+O004221,PayPal,1
+O004222,Transferencia,1
+O004223,Tarjeta de crédito,7
+O004224,Tarjeta de débito,1
+O004225,Transferencia,1
+O004226,Tarjeta de débito,1
+O004227,Transferencia,1
+O004228,PayPal,1
+O004229,Transferencia,1
+O004230,Tarjeta de crédito,3
+O004231,PayPal,1
+O004232,Transferencia,1
+O004233,Tarjeta de crédito,2
+O004234,Transferencia,1
+O004235,Tarjeta de débito,1
+O004236,Transferencia,1
+O004237,PayPal,1
+O004238,Tarjeta de crédito,3
+O004239,Tarjeta de crédito,4
+O004240,PayPal,1
+O004241,Transferencia,1
+O004242,PayPal,1
+O004243,Tarjeta de débito,1
+O004244,Tarjeta de débito,1
+O004245,Tarjeta de crédito,1
+O004246,PayPal,1
+O004247,Tarjeta de crédito,2
+O004248,Transferencia,1
+O004249,Transferencia,1
+O004250,Transferencia,1
+O004251,Tarjeta de débito,1
+O004252,Transferencia,1
+O004253,PayPal,1
+O004254,Tarjeta de crédito,2
+O004255,Tarjeta de débito,1
+O004256,Tarjeta de débito,1
+O004257,Tarjeta de débito,1
+O004258,Tarjeta de débito,1
+O004259,Tarjeta de crédito,9
+O004260,Transferencia,1
+O004261,Tarjeta de crédito,7
+O004262,PayPal,1
+O004263,Tarjeta de crédito,9
+O004264,Tarjeta de crédito,8
+O004265,Tarjeta de crédito,1
+O004266,Tarjeta de crédito,3
+O004267,Transferencia,1
+O004268,Tarjeta de crédito,5
+O004269,Tarjeta de débito,1
+O004270,Tarjeta de débito,1
+O004271,Tarjeta de crédito,12
+O004272,Tarjeta de débito,1
+O004273,Tarjeta de débito,1
+O004274,Tarjeta de crédito,3
+O004275,Transferencia,1
+O004276,Tarjeta de débito,1
+O004277,Tarjeta de crédito,12
+O004278,Tarjeta de crédito,1
+O004279,Tarjeta de débito,1
+O004280,Tarjeta de crédito,2
+O004281,Tarjeta de crédito,1
+O004282,Tarjeta de crédito,5
+O004283,Tarjeta de crédito,5
+O004284,Tarjeta de débito,1
+O004285,Tarjeta de crédito,10
+O004286,PayPal,1
+O004287,PayPal,1
+O004288,Tarjeta de crédito,1
+O004289,Tarjeta de crédito,8
+O004290,PayPal,1
+O004291,Tarjeta de crédito,7
+O004292,Tarjeta de crédito,2
+O004293,Transferencia,1
+O004294,Tarjeta de crédito,12
+O004295,Transferencia,1
+O004296,PayPal,1
+O004297,PayPal,1
+O004298,Tarjeta de débito,1
+O004299,Transferencia,1
+O004300,Transferencia,1
+O004301,Tarjeta de débito,1
+O004302,Tarjeta de crédito,8
+O004303,PayPal,1
+O004304,Transferencia,1
+O004305,Tarjeta de débito,1
+O004306,Tarjeta de débito,1
+O004307,Tarjeta de débito,1
+O004308,Tarjeta de crédito,10
+O004309,PayPal,1
+O004310,Transferencia,1
+O004311,Tarjeta de débito,1
+O004312,Tarjeta de crédito,2
+O004313,Transferencia,1
+O004314,Tarjeta de débito,1
+O004315,Transferencia,1
+O004316,Transferencia,1
+O004317,PayPal,1
+O004318,PayPal,1
+O004319,PayPal,1
+O004320,Tarjeta de débito,1
+O004321,Tarjeta de crédito,12
+O004322,Tarjeta de crédito,2
+O004323,PayPal,1
+O004324,Tarjeta de débito,1
+O004325,Transferencia,1
+O004326,PayPal,1
+O004327,Transferencia,1
+O004328,PayPal,1
+O004329,Tarjeta de crédito,7
+O004330,Tarjeta de crédito,6
+O004331,Tarjeta de crédito,10
+O004332,Transferencia,1
+O004333,Tarjeta de crédito,6
+O004334,Tarjeta de crédito,12
+O004335,Tarjeta de débito,1
+O004336,Transferencia,1
+O004337,PayPal,1
+O004338,Transferencia,1
+O004339,PayPal,1
+O004340,Tarjeta de débito,1
+O004341,Tarjeta de débito,1
+O004342,PayPal,1
+O004343,Tarjeta de débito,1
+O004344,Tarjeta de débito,1
+O004345,PayPal,1
+O004346,Transferencia,1
+O004347,Tarjeta de crédito,8
+O004348,Transferencia,1
+O004349,Tarjeta de débito,1
+O004350,Transferencia,1
+O004351,Transferencia,1
+O004352,PayPal,1
+O004353,PayPal,1
+O004354,Transferencia,1
+O004355,Tarjeta de crédito,6
+O004356,PayPal,1
+O004357,PayPal,1
+O004358,PayPal,1
+O004359,Tarjeta de crédito,10
+O004360,PayPal,1
+O004361,PayPal,1
+O004362,Tarjeta de crédito,4
+O004363,Tarjeta de crédito,8
+O004364,Tarjeta de débito,1
+O004365,Transferencia,1
+O004366,Tarjeta de débito,1
+O004367,Transferencia,1
+O004368,Tarjeta de crédito,11
+O004369,Tarjeta de débito,1
+O004370,PayPal,1
+O004371,Tarjeta de débito,1
+O004372,Tarjeta de crédito,6
+O004373,PayPal,1
+O004374,PayPal,1
+O004375,PayPal,1
+O004376,Tarjeta de crédito,8
+O004377,Tarjeta de crédito,6
+O004378,Tarjeta de crédito,1
+O004379,PayPal,1
+O004380,Tarjeta de crédito,4
+O004381,PayPal,1
+O004382,Transferencia,1
+O004383,PayPal,1
+O004384,PayPal,1
+O004385,PayPal,1
+O004386,PayPal,1
+O004387,PayPal,1
+O004388,Transferencia,1
+O004389,Tarjeta de crédito,7
+O004390,Tarjeta de crédito,7
+O004391,Transferencia,1
+O004392,Tarjeta de débito,1
+O004393,Tarjeta de débito,1
+O004394,PayPal,1
+O004395,Tarjeta de débito,1
+O004396,Transferencia,1
+O004397,PayPal,1
+O004398,Tarjeta de débito,1
+O004399,Tarjeta de débito,1
+O004400,Tarjeta de débito,1
+O004401,PayPal,1
+O004402,Tarjeta de débito,1
+O004403,PayPal,1
+O004404,Tarjeta de crédito,10
+O004405,Transferencia,1
+O004406,Tarjeta de débito,1
+O004407,Transferencia,1
+O004408,Tarjeta de crédito,2
+O004409,Tarjeta de crédito,5
+O004410,Transferencia,1
+O004411,Tarjeta de débito,1
+O004412,Tarjeta de débito,1
+O004413,Tarjeta de débito,1
+O004414,Tarjeta de débito,1
+O004415,Tarjeta de crédito,5
+O004416,Tarjeta de débito,1
+O004417,Tarjeta de crédito,2
+O004418,Tarjeta de crédito,3
+O004419,Tarjeta de débito,1
+O004420,Tarjeta de débito,1
+O004421,Tarjeta de crédito,9
+O004422,Tarjeta de crédito,7
+O004423,Transferencia,1
+O004424,PayPal,1
+O004425,PayPal,1
+O004426,Tarjeta de crédito,7
+O004427,Tarjeta de crédito,6
+O004428,Tarjeta de débito,1
+O004429,Transferencia,1
+O004430,Transferencia,1
+O004431,PayPal,1
+O004432,Tarjeta de débito,1
+O004433,Tarjeta de débito,1
+O004434,Tarjeta de débito,1
+O004435,Tarjeta de débito,1
+O004436,Tarjeta de débito,1
+O004437,Tarjeta de crédito,5
+O004438,Tarjeta de débito,1
+O004439,Tarjeta de crédito,2
+O004440,Tarjeta de débito,1
+O004441,Tarjeta de débito,1
+O004442,Tarjeta de crédito,11
+O004443,Tarjeta de débito,1
+O004444,Transferencia,1
+O004445,Tarjeta de débito,1
+O004446,Tarjeta de débito,1
+O004447,PayPal,1
+O004448,PayPal,1
+O004449,PayPal,1
+O004450,Transferencia,1
+O004451,Tarjeta de débito,1
+O004452,Tarjeta de crédito,11
+O004453,Transferencia,1
+O004454,PayPal,1
+O004455,Tarjeta de débito,1
+O004456,PayPal,1
+O004457,PayPal,1
+O004458,Transferencia,1
+O004459,Tarjeta de débito,1
+O004460,Transferencia,1
+O004461,Tarjeta de crédito,6
+O004462,Transferencia,1
+O004463,Tarjeta de débito,1
+O004464,Transferencia,1
+O004465,PayPal,1
+O004466,Transferencia,1
+O004467,Tarjeta de débito,1
+O004468,PayPal,1
+O004469,Transferencia,1
+O004470,Tarjeta de débito,1
+O004471,Transferencia,1
+O004472,PayPal,1
+O004473,Transferencia,1
+O004474,PayPal,1
+O004475,Tarjeta de crédito,9
+O004476,Transferencia,1
+O004477,PayPal,1
+O004478,Transferencia,1
+O004479,PayPal,1
+O004480,PayPal,1
+O004481,PayPal,1
+O004482,PayPal,1
+O004483,Tarjeta de débito,1
+O004484,PayPal,1
+O004485,PayPal,1
+O004486,PayPal,1
+O004487,PayPal,1
+O004488,Transferencia,1
+O004489,Transferencia,1
+O004490,Tarjeta de crédito,7
+O004491,Tarjeta de crédito,3
+O004492,Tarjeta de crédito,10
+O004493,Tarjeta de crédito,6
+O004494,Tarjeta de débito,1
+O004495,Transferencia,1
+O004496,Tarjeta de débito,1
+O004497,PayPal,1
+O004498,Tarjeta de crédito,5
+O004499,PayPal,1
+O004500,PayPal,1
+O004501,Transferencia,1
+O004502,PayPal,1
+O004503,Transferencia,1
+O004504,Tarjeta de crédito,11
+O004505,Tarjeta de crédito,8
+O004506,Tarjeta de crédito,6
+O004507,Tarjeta de débito,1
+O004508,PayPal,1
+O004509,Transferencia,1
+O004510,Transferencia,1
+O004511,Transferencia,1
+O004512,Tarjeta de crédito,12
+O004513,Transferencia,1
+O004514,Transferencia,1
+O004515,Transferencia,1
+O004516,PayPal,1
+O004517,Tarjeta de crédito,11
+O004518,Tarjeta de crédito,1
+O004519,Tarjeta de crédito,1
+O004520,Transferencia,1
+O004521,Tarjeta de crédito,5
+O004522,Tarjeta de débito,1
+O004523,Tarjeta de crédito,10
+O004524,Tarjeta de crédito,4
+O004525,Transferencia,1
+O004526,Tarjeta de crédito,4
+O004527,Tarjeta de débito,1
+O004528,Tarjeta de débito,1
+O004529,PayPal,1
+O004530,Tarjeta de débito,1
+O004531,Transferencia,1
+O004532,Tarjeta de débito,1
+O004533,PayPal,1
+O004534,Tarjeta de débito,1
+O004535,Transferencia,1
+O004536,PayPal,1
+O004537,Transferencia,1
+O004538,Transferencia,1
+O004539,Tarjeta de débito,1
+O004540,Tarjeta de débito,1
+O004541,Tarjeta de crédito,1
+O004542,PayPal,1
+O004543,Tarjeta de débito,1
+O004544,Transferencia,1
+O004545,Transferencia,1
+O004546,PayPal,1
+O004547,Tarjeta de débito,1
+O004548,Tarjeta de crédito,11
+O004549,PayPal,1
+O004550,Tarjeta de débito,1
+O004551,PayPal,1
+O004552,PayPal,1
+O004553,Tarjeta de crédito,7
+O004554,Transferencia,1
+O004555,Tarjeta de crédito,9
+O004556,Transferencia,1
+O004557,Transferencia,1
+O004558,Tarjeta de crédito,11
+O004559,Tarjeta de crédito,4
+O004560,PayPal,1
+O004561,PayPal,1
+O004562,Transferencia,1
+O004563,PayPal,1
+O004564,Tarjeta de crédito,6
+O004565,PayPal,1
+O004566,PayPal,1
+O004567,Tarjeta de crédito,10
+O004568,Transferencia,1
+O004569,Tarjeta de crédito,3
+O004570,Tarjeta de débito,1
+O004571,Transferencia,1
+O004572,Tarjeta de crédito,3
+O004573,Tarjeta de débito,1
+O004574,Transferencia,1
+O004575,Tarjeta de débito,1
+O004576,Transferencia,1
+O004577,Tarjeta de débito,1
+O004578,Transferencia,1
+O004579,PayPal,1
+O004580,Tarjeta de débito,1
+O004581,PayPal,1
+O004582,Tarjeta de crédito,11
+O004583,PayPal,1
+O004584,Tarjeta de débito,1
+O004585,Tarjeta de crédito,10
+O004586,Tarjeta de crédito,6
+O004587,Transferencia,1
+O004588,Tarjeta de crédito,1
+O004589,Transferencia,1
+O004590,Transferencia,1
+O004591,Transferencia,1
+O004592,Transferencia,1
+O004593,PayPal,1
+O004594,Tarjeta de débito,1
+O004595,Transferencia,1
+O004596,Transferencia,1
+O004597,Tarjeta de débito,1
+O004598,PayPal,1
+O004599,Transferencia,1
+O004600,Tarjeta de crédito,12
+O004601,Tarjeta de crédito,3
+O004602,Tarjeta de débito,1
+O004603,PayPal,1
+O004604,PayPal,1
+O004605,PayPal,1
+O004606,PayPal,1
+O004607,PayPal,1
+O004608,Tarjeta de crédito,7
+O004609,PayPal,1
+O004610,Tarjeta de débito,1
+O004611,Tarjeta de débito,1
+O004612,PayPal,1
+O004613,Tarjeta de débito,1
+O004614,Tarjeta de crédito,1
+O004615,Tarjeta de crédito,8
+O004616,PayPal,1
+O004617,PayPal,1
+O004618,Tarjeta de débito,1
+O004619,Tarjeta de crédito,1
+O004620,PayPal,1
+O004621,Tarjeta de débito,1
+O004622,Tarjeta de débito,1
+O004623,Tarjeta de débito,1
+O004624,Transferencia,1
+O004625,PayPal,1
+O004626,Tarjeta de débito,1
+O004627,PayPal,1
+O004628,PayPal,1
+O004629,Tarjeta de débito,1
+O004630,Tarjeta de débito,1
+O004631,Tarjeta de débito,1
+O004632,Tarjeta de débito,1
+O004633,PayPal,1
+O004634,PayPal,1
+O004635,Transferencia,1
+O004636,PayPal,1
+O004637,Transferencia,1
+O004638,Tarjeta de crédito,11
+O004639,PayPal,1
+O004640,Tarjeta de débito,1
+O004641,PayPal,1
+O004642,Tarjeta de débito,1
+O004643,Tarjeta de débito,1
+O004644,Tarjeta de débito,1
+O004645,Tarjeta de débito,1
+O004646,Tarjeta de crédito,3
+O004647,Tarjeta de débito,1
+O004648,Tarjeta de crédito,4
+O004649,Transferencia,1
+O004650,Transferencia,1
+O004651,Tarjeta de débito,1
+O004652,Tarjeta de débito,1
+O004653,PayPal,1
+O004654,Tarjeta de débito,1
+O004655,PayPal,1
+O004656,PayPal,1
+O004657,PayPal,1
+O004658,Tarjeta de crédito,8
+O004659,Tarjeta de débito,1
+O004660,Transferencia,1
+O004661,Tarjeta de crédito,8
+O004662,Tarjeta de débito,1
+O004663,Tarjeta de débito,1
+O004664,Tarjeta de débito,1
+O004665,Tarjeta de débito,1
+O004666,PayPal,1
+O004667,PayPal,1
+O004668,Tarjeta de débito,1
+O004669,Tarjeta de crédito,3
+O004670,Tarjeta de crédito,2
+O004671,Transferencia,1
+O004672,PayPal,1
+O004673,Tarjeta de crédito,8
+O004674,PayPal,1
+O004675,Tarjeta de débito,1
+O004676,PayPal,1
+O004677,Tarjeta de crédito,8
+O004678,Tarjeta de débito,1
+O004679,PayPal,1
+O004680,Transferencia,1
+O004681,PayPal,1
+O004682,Transferencia,1
+O004683,PayPal,1
+O004684,Tarjeta de débito,1
+O004685,Tarjeta de crédito,12
+O004686,PayPal,1
+O004687,Transferencia,1
+O004688,Tarjeta de crédito,3
+O004689,Transferencia,1
+O004690,Tarjeta de débito,1
+O004691,Tarjeta de débito,1
+O004692,Tarjeta de débito,1
+O004693,Tarjeta de débito,1
+O004694,Tarjeta de débito,1
+O004695,Transferencia,1
+O004696,PayPal,1
+O004697,Tarjeta de débito,1
+O004698,PayPal,1
+O004699,PayPal,1
+O004700,PayPal,1
+O004701,PayPal,1
+O004702,Transferencia,1
+O004703,Transferencia,1
+O004704,Tarjeta de débito,1
+O004705,Transferencia,1
+O004706,Tarjeta de crédito,11
+O004707,Tarjeta de crédito,4
+O004708,PayPal,1
+O004709,Tarjeta de crédito,11
+O004710,Tarjeta de débito,1
+O004711,Tarjeta de crédito,6
+O004712,PayPal,1
+O004713,Transferencia,1
+O004714,Tarjeta de crédito,9
+O004715,Tarjeta de crédito,7
+O004716,Tarjeta de crédito,1
+O004717,Transferencia,1
+O004718,Transferencia,1
+O004719,Tarjeta de crédito,10
+O004720,Tarjeta de débito,1
+O004721,Tarjeta de débito,1
+O004722,Tarjeta de débito,1
+O004723,Tarjeta de crédito,1
+O004724,Tarjeta de débito,1
+O004725,Transferencia,1
+O004726,Transferencia,1
+O004727,PayPal,1
+O004728,Tarjeta de débito,1
+O004729,Tarjeta de crédito,1
+O004730,Transferencia,1
+O004731,Tarjeta de débito,1
+O004732,Tarjeta de crédito,6
+O004733,PayPal,1
+O004734,Tarjeta de débito,1
+O004735,PayPal,1
+O004736,Tarjeta de débito,1
+O004737,Tarjeta de crédito,6
+O004738,Tarjeta de débito,1
+O004739,Transferencia,1
+O004740,Transferencia,1
+O004741,Tarjeta de débito,1
+O004742,Transferencia,1
+O004743,PayPal,1
+O004744,Transferencia,1
+O004745,Tarjeta de crédito,4
+O004746,Tarjeta de crédito,4
+O004747,Tarjeta de débito,1
+O004748,Tarjeta de débito,1
+O004749,Tarjeta de débito,1
+O004750,Tarjeta de crédito,9
+O004751,Tarjeta de crédito,7
+O004752,Tarjeta de crédito,7
+O004753,Tarjeta de crédito,11
+O004754,Tarjeta de débito,1
+O004755,Transferencia,1
+O004756,Transferencia,1
+O004757,PayPal,1
+O004758,Tarjeta de crédito,12
+O004759,Transferencia,1
+O004760,Transferencia,1
+O004761,Tarjeta de crédito,3
+O004762,Tarjeta de débito,1
+O004763,PayPal,1
+O004764,PayPal,1
+O004765,Tarjeta de crédito,8
+O004766,Transferencia,1
+O004767,Transferencia,1
+O004768,Transferencia,1
+O004769,PayPal,1
+O004770,PayPal,1
+O004771,PayPal,1
+O004772,Transferencia,1
+O004773,PayPal,1
+O004774,Tarjeta de crédito,7
+O004775,PayPal,1
+O004776,Tarjeta de débito,1
+O004777,Tarjeta de crédito,3
+O004778,Transferencia,1
+O004779,Tarjeta de crédito,9
+O004780,PayPal,1
+O004781,Tarjeta de crédito,9
+O004782,PayPal,1
+O004783,Tarjeta de débito,1
+O004784,PayPal,1
+O004785,PayPal,1
+O004786,Tarjeta de crédito,4
+O004787,PayPal,1
+O004788,PayPal,1
+O004789,Transferencia,1
+O004790,Tarjeta de débito,1
+O004791,Transferencia,1
+O004792,Transferencia,1
+O004793,Tarjeta de crédito,9
+O004794,Tarjeta de crédito,2
+O004795,Tarjeta de crédito,1
+O004796,PayPal,1
+O004797,Tarjeta de crédito,7
+O004798,Transferencia,1
+O004799,Transferencia,1
+O004800,PayPal,1
+O004801,Transferencia,1
+O004802,Tarjeta de débito,1
+O004803,Tarjeta de crédito,6
+O004804,PayPal,1
+O004805,Transferencia,1
+O004806,PayPal,1
+O004807,Transferencia,1
+O004808,Tarjeta de débito,1
+O004809,Tarjeta de débito,1
+O004810,Tarjeta de débito,1
+O004811,Tarjeta de crédito,1
+O004812,Tarjeta de débito,1
+O004813,Transferencia,1
+O004814,Transferencia,1
+O004815,Tarjeta de débito,1
+O004816,PayPal,1
+O004817,PayPal,1
+O004818,Tarjeta de débito,1
+O004819,PayPal,1
+O004820,Tarjeta de crédito,1
+O004821,Tarjeta de crédito,6
+O004822,Transferencia,1
+O004823,PayPal,1
+O004824,PayPal,1
+O004825,PayPal,1
+O004826,Tarjeta de crédito,6
+O004827,Tarjeta de débito,1
+O004828,Tarjeta de crédito,6
+O004829,Tarjeta de crédito,4
+O004830,Tarjeta de débito,1
+O004831,Tarjeta de débito,1
+O004832,Transferencia,1
+O004833,PayPal,1
+O004834,Transferencia,1
+O004835,Transferencia,1
+O004836,Tarjeta de crédito,6
+O004837,PayPal,1
+O004838,Tarjeta de débito,1
+O004839,Tarjeta de crédito,6
+O004840,PayPal,1
+O004841,Transferencia,1
+O004842,Tarjeta de crédito,5
+O004843,Tarjeta de débito,1
+O004844,PayPal,1
+O004845,Tarjeta de crédito,12
+O004846,Tarjeta de crédito,9
+O004847,Tarjeta de crédito,9
+O004848,PayPal,1
+O004849,Tarjeta de crédito,9
+O004850,Tarjeta de débito,1
+O004851,PayPal,1
+O004852,PayPal,1
+O004853,PayPal,1
+O004854,Tarjeta de crédito,10
+O004855,Tarjeta de débito,1
+O004856,Transferencia,1
+O004857,PayPal,1
+O004858,Transferencia,1
+O004859,Tarjeta de crédito,6
+O004860,PayPal,1
+O004861,Tarjeta de débito,1
+O004862,Tarjeta de débito,1
+O004863,PayPal,1
+O004864,Tarjeta de débito,1
+O004865,Tarjeta de crédito,1
+O004866,Transferencia,1
+O004867,PayPal,1
+O004868,Transferencia,1
+O004869,Tarjeta de crédito,11
+O004870,Tarjeta de crédito,12
+O004871,Tarjeta de débito,1
+O004872,Tarjeta de crédito,12
+O004873,Tarjeta de débito,1
+O004874,Tarjeta de débito,1
+O004875,PayPal,1
+O004876,PayPal,1
+O004877,Transferencia,1
+O004878,Tarjeta de crédito,12
+O004879,Tarjeta de crédito,1
+O004880,PayPal,1
+O004881,Tarjeta de débito,1
+O004882,Transferencia,1
+O004883,Tarjeta de débito,1
+O004884,Transferencia,1
+O004885,Tarjeta de débito,1
+O004886,Tarjeta de crédito,11
+O004887,Tarjeta de crédito,6
+O004888,Tarjeta de crédito,11
+O004889,Transferencia,1
+O004890,Tarjeta de crédito,2
+O004891,Tarjeta de crédito,11
+O004892,Transferencia,1
+O004893,Transferencia,1
+O004894,PayPal,1
+O004895,Transferencia,1
+O004896,Transferencia,1
+O004897,Tarjeta de crédito,10
+O004898,PayPal,1
+O004899,Tarjeta de crédito,4
+O004900,Transferencia,1
+O004901,Tarjeta de débito,1
+O004902,Tarjeta de crédito,5
+O004903,Tarjeta de crédito,9
+O004904,Tarjeta de débito,1
+O004905,Transferencia,1
+O004906,Transferencia,1
+O004907,Tarjeta de crédito,10
+O004908,PayPal,1
+O004909,Tarjeta de débito,1
+O004910,Tarjeta de débito,1
+O004911,Tarjeta de crédito,11
+O004912,Transferencia,1
+O004913,PayPal,1
+O004914,Tarjeta de crédito,9
+O004915,PayPal,1
+O004916,Tarjeta de débito,1
+O004917,PayPal,1
+O004918,Tarjeta de crédito,10
+O004919,Tarjeta de crédito,6
+O004920,Transferencia,1
+O004921,Tarjeta de débito,1
+O004922,Tarjeta de crédito,5
+O004923,Tarjeta de débito,1
+O004924,Tarjeta de crédito,12
+O004925,Tarjeta de crédito,5
+O004926,Transferencia,1
+O004927,Tarjeta de débito,1
+O004928,Tarjeta de crédito,1
+O004929,Tarjeta de débito,1
+O004930,Transferencia,1
+O004931,Transferencia,1
+O004932,PayPal,1
+O004933,Tarjeta de crédito,8
+O004934,Tarjeta de crédito,5
+O004935,Tarjeta de crédito,2
+O004936,Tarjeta de débito,1
+O004937,Tarjeta de crédito,12
+O004938,Tarjeta de débito,1
+O004939,Tarjeta de crédito,3
+O004940,PayPal,1
+O004941,Tarjeta de débito,1
+O004942,PayPal,1
+O004943,Tarjeta de crédito,1
+O004944,PayPal,1
+O004945,Tarjeta de crédito,8
+O004946,Tarjeta de crédito,1
+O004947,Tarjeta de débito,1
+O004948,Transferencia,1
+O004949,Tarjeta de crédito,4
+O004950,Transferencia,1
+O004951,Transferencia,1
+O004952,PayPal,1
+O004953,Transferencia,1
+O004954,Tarjeta de crédito,10
+O004955,Transferencia,1
+O004956,PayPal,1
+O004957,Tarjeta de débito,1
+O004958,Tarjeta de débito,1
+O004959,Tarjeta de crédito,11
+O004960,Tarjeta de débito,1
+O004961,Tarjeta de crédito,10
+O004962,Transferencia,1
+O004963,Tarjeta de crédito,4
+O004964,PayPal,1
+O004965,Transferencia,1
+O004966,PayPal,1
+O004967,Tarjeta de débito,1
+O004968,PayPal,1
+O004969,Tarjeta de crédito,3
+O004970,Tarjeta de crédito,6
+O004971,Transferencia,1
+O004972,Transferencia,1
+O004973,Transferencia,1
+O004974,Transferencia,1
+O004975,PayPal,1
+O004976,Tarjeta de débito,1
+O004977,Tarjeta de crédito,10
+O004978,PayPal,1
+O004979,PayPal,1
+O004980,Transferencia,1
+O004981,Tarjeta de débito,1
+O004982,PayPal,1
+O004983,Transferencia,1
+O004984,Tarjeta de débito,1
+O004985,Transferencia,1
+O004986,Tarjeta de débito,1
+O004987,Tarjeta de crédito,3
+O004988,Transferencia,1
+O004989,PayPal,1
+O004990,Tarjeta de débito,1
+O004991,Tarjeta de crédito,1
+O004992,Transferencia,1
+O004993,Tarjeta de crédito,1
+O004994,PayPal,1
+O004995,Tarjeta de crédito,1
+O004996,Tarjeta de débito,1
+O004997,Transferencia,1
+O004998,Transferencia,1
+O004999,Tarjeta de crédito,9
+O005000,Transferencia,1

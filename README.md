@@ -1,0 +1,1 @@
+El objetivo de este proyecto es analizar datos de un e-commerce para identificar patrones de ventas, comportamiento de clientes,eficiencia operativa y oportunidades de mejora que permitan optimizar la toma de decisiones del negocio.
